@@ -1,18 +1,11 @@
 <!doctype html>
 <html lang="en">
-
 <head>
   <meta charset="utf-8">
-
-  <meta
-    name="viewport"
-    content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>
-    {{ if not .IsHome }}
-      {{ .Title }} |
-    {{ end }}
-    {{ .Site.Title }}
+    {{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}
   </title>
 
   <meta
@@ -20,13 +13,9 @@
     content="AI-enabled modeling and optimization for resilient energy and infrastructure systems.">
 
   <link
-    rel="stylesheet/head>
-
-<body>
-
-  <header class="header">
+    rel="stylesheet"
+    href="/asmartlab/css/site.cssder">
     <div class="navwrap">
-
       /asmartlab/
         <span class="mark">A</span>
         <span>A-SMART Lab</span>
@@ -49,10 +38,9 @@
         /asmartlab/team/Team</a>
         /asmartlab/teaching/Teaching</a>
         /asmartlab/services/Services &amp; Collaboration</a>
-        /asmartlab/news/News</a>
-        /asmartlab/join/Join Us</a>
+        <asmartlab/news/News</a>
+        <asmartlab/join/Join Us</a>
       </nav>
-
     </div>
   </header>
 
@@ -63,7 +51,6 @@
 
   <footer>
     <div class="footer-grid">
-
       <div>
         <strong>A-SMART Lab</strong>
 
@@ -72,14 +59,11 @@
           Research &amp; Technology
         </p>
 
-        <p>
-          Singapore Institute of Technology
-        </p>
+        <p>Singapore Institute of Technology</p>
       </div>
 
       <div>
         <strong>Explore</strong>
-
         /asmartlab/research/Research</a>
         /asmartlab/projects/Projects</a>
         /asmartlab/publications/Publications</a>
@@ -88,20 +72,13 @@
 
       <div>
         <strong>Connect</strong>
-
-        /asmartlab/services/
-          Services &amp; Collaboration
-        </a>
-
+        /asmartlab/services/Services &amp; Collaboration</a>
         /asmartlab/join/Join Us</a>
-
         <a href="mailto:martin.ma@singaporetech.edu.sg">
           martin.ma@singaporetech.edu.sg
         </a>
       </div>
-
     </div>
   </footer>
-
 </body>
 </html>
