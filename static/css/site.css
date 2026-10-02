@@ -75,7 +75,7 @@ footer {
   height: auto;
   aspect-ratio: 4 / 5;
   object-fit: cover;
-  object-position: center top;
+  object-position: 60% top;
   border-radius: 16px;
   border: 1px solid #d8e2e8;
   box-shadow: 0 12px 32px rgba(11, 35, 57, 0.14);
