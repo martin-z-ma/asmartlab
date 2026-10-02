@@ -21,12 +21,14 @@
 
   <link
     rel="stylesheet"
-    href="{{ "css/site.css" | relURLnavwrap">
+    href="/asmartlab/css/site.cssader">
+    <div class="navwrap">
 
       <a
         class="brand"
-        href <span class="mark">A</span>
-        <span>A-SMART Lab</span>
+        href="/asmartlab/">
+
+        <spanART Lab</span>
       </a>
 
       <button
@@ -41,13 +43,16 @@
         class="nav"
         aria-label="Main navigation">
 
-        {{ range .Site.Menus.main }}
-
-          {{ .URL | relURL }}
-            {{ .Name }}
-          </a>
-
-        {{ end }}
+        /asmartlab/Home</a>
+        /asmartlab/pi/PI</a>
+        /asmartlab/research/Research</a>
+        /asmartlab/projects/Projects</a>
+        /asmartlab/publications/Publications</a>
+        /asmartlab/team/Team</a>
+        /asmartlab/teaching/Teaching</a>
+        /asmartlab/services/Services &amp; Collaboration</a>
+        /asmartlab/news/News</a>
+        /asmartlab/join/Join Us</a>
 
       </nav>
 
@@ -78,31 +83,20 @@
       <div>
         <strong>Explore</strong>
 
-        {{ 
-          Research
-        </a>
-
-        {{ 
-          Projects
-        </a>
-
-        {{ 
-          Publications
-        </a>
-
-        {{ 
-          Teaching
-        </a>
+        /asmartlab/research/Research</a>
+        /asmartlab/projects/Projects</a>
+        /asmartlab/publications/Publications</a>
+        /asmartlab/teaching/Teaching</a>
       </div>
 
       <div>
         <strong>Connect</strong>
 
-        {{ 
+        /asmartlab/services/
           Services &amp; Collaboration
         </a>
 
-        {{ 
+        /asmartlab/join/
           Join Us
         </a>
 
