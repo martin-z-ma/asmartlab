@@ -72,6 +72,7 @@ footer {
 .pi-photo img {
   display: block;
   width: 100%;
+  height: auto;
   aspect-ratio: 4 / 5;
   object-fit: cover;
   object-position: center top;
@@ -79,8 +80,6 @@ footer {
   border: 1px solid #d8e2e8;
   box-shadow: 0 12px 32px rgba(11, 35, 57, 0.14);
 }
-
-/* Move the photo above the biography on smaller screens */
 
 @media (max-width: 800px) {
   .pi-profile {
@@ -91,6 +90,7 @@ footer {
   .pi-photo {
     position: static;
     grid-row: 1;
+    width: 100%;
     max-width: 300px;
   }
 
