@@ -1,0 +1,16 @@
+{{- $id := .Get "id" -}}
+{{- $title := .Get "title" -}}
+{{- $authors := .Get "authors" -}}
+{{- $journal := .Get "journal" -}}
+{{- $year := .Get "year" -}}
+{{- $doi := .Get "doi" -}}
+{{- $image := .Get "image" -}}
+{{- $pdf := .Get "pdf" -}}
+<details class="paper-card">
+<summary><span class="paper-id">{{ $id }}</span><span class="paper-title">{{ $title }}</span><span class="paper-meta">{{ $authors }} · {{ $journal }} · {{ $year }}</span></summary>
+<div class="paper-body">
+{{ with $image }}<figure class="paper-figure"><img src="{{ . | relURL }}" alt="Image for {{ $title }}" loading="lazy" onerror="this.closest('figure').classList.add('image-missing')"><figcaption>Publication image placeholder</figcaption></figure>{{ end }}
+<div class="paper-description">{{ $.Inner | markdownify }}</div>
+<div class="paper-actions">{{ with $doi }}<a class="button secondary" href="{{ . }}" target="_blank" rel="noopener">View publication</a>{{ end }}{{ with $pdf }}<a class="button secondary" href="{{ . | relURL }}" target="_blank" rel="noopener">Open PDF</a>{{ end }}</div>
+{{ with $pdf }}<details class="pdf-preview"><summary>Preview PDF</summary><object class="pdf-viewer" data="{{ . | relURL }}" type="application/pdf"><p><a href="{{ . | relURL }}">Open PDF</a></p></object></details>{{ end }}
+</div></details>
