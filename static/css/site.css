@@ -47,3 +47,56 @@ main {
 footer {
   flex-shrink: 0;
 }
+
+
+/* Principal Investigator profile */
+
+.pi-profile {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 300px;
+  gap: 3rem;
+  align-items: start;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+}
+
+.pi-introduction h2 {
+  margin-top: 0;
+}
+
+.pi-photo {
+  position: sticky;
+  top: 100px;
+}
+
+.pi-photo img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  object-position: center top;
+  border-radius: 16px;
+  border: 1px solid #d8e2e8;
+  box-shadow: 0 12px 32px rgba(11, 35, 57, 0.14);
+}
+
+/* Move the photo above the biography on smaller screens */
+
+@media (max-width: 800px) {
+  .pi-profile {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .pi-photo {
+    position: static;
+    grid-row: 1;
+    max-width: 300px;
+  }
+
+  .pi-introduction {
+    grid-row: 2;
+  }
+}
+
+
