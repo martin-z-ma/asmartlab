@@ -3,80 +3,54 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <title>
-    {{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}
-  </title>
-
-  <meta
-    name="description"
-    content="AI-enabled modeling and optimization for resilient energy and infrastructure systems.">
-
-  <link
-    rel="stylesheet"
-    href="/asmartlab/css/site.cssder">
+  <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+  <meta name="description" content="AI-enabled modeling and optimization for resilient energy and infrastructure systems.">
+  <link rel="stylesheet" href="/asmartlab/css/site.css">
+</head>
+<body>
+  <header class="header">
     <div class="navwrap">
-      /asmartlab/
+      <a class="brand" href="/asmartlab/">
         <span class="mark">A</span>
         <span>A-SMART Lab</span>
       </a>
-
-      <button
-        class="menu-button"
-        type="button"
-        aria-label="Toggle navigation menu"
-        onclick="document.querySelector('.nav').classList.toggle('open')">
-        Menu
-      </button>
-
+      <button class="menu-button" type="button" aria-label="Toggle navigation menu" onclick="document.querySelector('.nav').classList.toggle('open')">Menu</button>
       <nav class="nav" aria-label="Main navigation">
-        /asmartlab/Home</a>
-        /asmartlab/pi/PI</a>
-        /asmartlab/research/Research</a>
-        /asmartlab/projects/Projects</a>
-        /asmartlab/publications/Publications</a>
-        /asmartlab/team/Team</a>
-        /asmartlab/teaching/Teaching</a>
-        /asmartlab/services/Services &amp; Collaboration</a>
-        <asmartlab/news/News</a>
-        <asmartlab/join/Join Us</a>
+        <a href="/asmartlab/">Home</a>
+        <a href="/asmartlab/pi/">PI</a>
+        <a href="/asmartlab/research/">Research</a>
+        <a href="/asmartlab/projects/">Projects</a>
+        <a href="/asmartlab/publications/">Publications</a>
+        <a href="/asmartlab/team/">Team</a>
+        <a href="/asmartlab/teaching/">Teaching</a>
+        <a href="/asmartlab/services/">Services &amp; Collaboration</a>
+        <a href="/asmartlab/news/">News</a>
+        <a href="/asmartlab/join/">Join Us</a>
       </nav>
     </div>
   </header>
-
   <main>
-    {{ block "main" . }}
-    {{ end }}
+    {{ block "main" . }}{{ end }}
   </main>
-
   <footer>
     <div class="footer-grid">
       <div>
         <strong>A-SMART Lab</strong>
-
-        <p>
-          Applied Systems Modeling, Analytics,
-          Research &amp; Technology
-        </p>
-
+        <p>Applied Systems Modeling, Analytics, Research &amp; Technology</p>
         <p>Singapore Institute of Technology</p>
       </div>
-
       <div>
         <strong>Explore</strong>
-        /asmartlab/research/Research</a>
-        /asmartlab/projects/Projects</a>
-        /asmartlab/publications/Publications</a>
-        /asmartlab/teaching/Teaching</a>
+        <a href="/asmartlab/research/">Research</a>
+        <a href="/asmartlab/projects/">Projects</a>
+        <a href="/asmartlab/publications/">Publications</a>
+        <a href="/asmartlab/teaching/">Teaching</a>
       </div>
-
       <div>
         <strong>Connect</strong>
-        /asmartlab/services/Services &amp; Collaboration</a>
-        /asmartlab/join/Join Us</a>
-        <a href="mailto:martin.ma@singaporetech.edu.sg">
-          martin.ma@singaporetech.edu.sg
-        </a>
+        <a href="/asmartlab/services/">Services &amp; Collaboration</a>
+        <a href="/asmartlab/join/">Join Us</a>
+        <a href="mailto:martin.ma@singaporetech.edu.sg">martin.ma@singaporetech.edu.sg</a>
       </div>
     </div>
   </footer>
