@@ -6,7 +6,7 @@ title: "Principal Investigator"
 
 **Assistant Professor, Singapore Institute of Technology**
 
-Dr. Martin Z. Ma leads A-SMART Lab. His research focuses on AI-enabled modeling and optimization for secure, resilient, and economically sustainable infrastructure under uncertainty.
+Dr. Martin Z. Ma leads the A-SMART Lab, where his research focuses on AI-enabled modeling, optimization, and decision support for secure, resilient, and economically sustainable infrastructure under uncertainty. His work integrates artificial intelligence, machine learning, mathematical optimization, techno-economic analysis, and uncertainty quantification to address complex infrastructure and energy-system challenges. The lab develops data-driven and physics-informed approaches to improve system planning, operation, risk assessment, and long-term decision-making, with applications spanning energy infrastructure, carbon capture, utilization and storage, subsurface systems, and the broader energy transition. A central goal of the A-SMART Lab is to translate advanced computational methods into practical tools that support more robust, adaptive, and evidence-based infrastructure decisions.
 
 ### Research interests
 
