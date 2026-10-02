@@ -2,8 +2,6 @@
 
 This is a self-contained Hugo site with no external theme or module dependency. The main navigation includes a Home link to the landing page.
 
-This is workable version.
-
 ## Run on Windows
 
 1. Extract the ZIP.
