@@ -20,7 +20,7 @@ A central goal of the A-SMART Lab is to translate advanced computational methods
 
 <div class="pi-photo">
 
-/asmartlab/images/Martin Ma.png
+/asmartlab/images/static/Martin Ma.png
 
 </div>
 
