@@ -14,7 +14,7 @@ We develop artificial intelligence and scientific machine learning approaches to
 
 </div></div>
 <br>
-<div class="research-theme reverse"><div class="research-photo"><img src="/images/P2.png" alt="Optimization & Decision Intelligence" style="width:100%;border-radius:8px;"></div><div>
+<div class="research-theme reverse"><div class="research-photo"><img src="../images/P2.png" alt="Optimization & Decision Intelligence" style="width:100%;border-radius:8px;"></div><div>
 <br>
 
 ## 2. Optimization, Uncertainty & Decision Intelligence
@@ -23,7 +23,7 @@ We develop computational frameworks for making better engineering decisions in s
 
 </div></div>
 <br>
-<div class="research-theme"><div class="research-photo"><img src="/images/P3.png" alt="CCUS & Low-Carbon Infrastructure" style="width:100%;border-radius:8px;"></div><div>
+<div class="research-theme"><div class="research-photo"><img src="../images/P3.png" alt="CCUS & Low-Carbon Infrastructure" style="width:100%;border-radius:8px;"></div><div>
 <br>
 
 ## 3. CCUS & Low-Carbon Infrastructure
@@ -32,7 +32,7 @@ We develop models, optimization frameworks, and decision-support tools for the p
 
 </div></div>
 <br>
-<div class="research-theme reverse"><div class="research-photo"><img src="/images/P4.png" alt="Subsurface & Geoenergy Systems" style="width:100%;border-radius:8px;"></div><div>
+<div class="research-theme reverse"><div class="research-photo"><img src="../images/P4.png" alt="Subsurface & Geoenergy Systems" style="width:100%;border-radius:8px;"></div><div>
 <br>
 
 ## 4. Subsurface & Geoenergy Systems
