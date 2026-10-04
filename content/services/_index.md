@@ -89,7 +89,7 @@ Depending on the collaboration, project outputs may include:
 
 ## Research Software & Computational Tools
 
-A-SMART Lab has experience developing and contributing to research software and decision-support platforms, including work related to **SimCCS 3.0, SCO₂T, CostMAP**, scientific Python workflows, simulation tools, optimization frameworks, and reproducible computational pipelines.
+A-SMART Lab has experience developing and contributing to research software and decision-support platforms, scientific Python workflows, simulation tools, optimization frameworks, and reproducible computational pipelines.
 
 ## Why Collaborate with A-SMART?
 
