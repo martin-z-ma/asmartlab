@@ -4,7 +4,7 @@ title: "Research"
 <br>
 <div class="research-intro"><strong>AI-enabled modeling and optimization for secure, resilient, and economically sustainable infrastructure under uncertainty.</strong></div>
 <br>
-<div class="research-theme"><div class="research-photo"><img src="/asmartlab/static/images/P1.png" alt="AI & Scientific Machine Learning" style="width:100%;border-radius:8px;"></div><div>
+<div class="research-theme"><div class="research-photo"><img src="../images/P1.png" alt="AI & Scientific Machine Learning" style="width:100%;border-radius:8px;"></div><div>
 <br>
 
 
