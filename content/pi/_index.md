@@ -10,11 +10,8 @@ title: "Principal Investigator"
 
 <p><strong>Assistant Professor, Singapore Institute of Technology</strong></p>
 
-<p>Dr. Martin Ma leads the <strong>Applied Systems Modeling, Analytics, Research & Technology (A-SMART) Lab</strong> at the Singapore Institute of Technology.</p>
 
-<p>His research focuses on <strong>AI-enabled modeling, optimization, and decision intelligence for secure, resilient, and economically sustainable energy and infrastructure systems under uncertainty</strong>. He integrates artificial intelligence, scientific machine learning, mathematical optimization, physics-based modeling, techno-economic analysis, and uncertainty quantification to support complex engineering and infrastructure decisions.</p>
-
-<p>His research spans CCUS and low-carbon infrastructure, subsurface and geoenergy systems, energy-system planning, and AI-enabled engineering. A central goal of his work is to move beyond prediction toward practical, risk-informed decision support.</p>
+<p>Dr. Martin Ma leads the <strong>Applied Systems Modeling, Analytics, Research & Technology (A-SMART) Lab</strong> at the Singapore Institute of Technology. His research develops <strong>AI-enabled modeling, optimization, and decision-intelligence frameworks</strong> for secure, resilient, and economically sustainable energy and infrastructure systems under uncertainty. By integrating scientific machine learning, physics-based modeling, mathematical optimization, techno-economic analysis, and uncertainty quantification, his work transforms complex engineering data and models into actionable, risk-informed decisions. His research spans <strong>CCUS and low-carbon infrastructure, subsurface and geoenergy systems, energy-system planning, and AI-enabled engineering</strong>, with a strong emphasis on translating advanced computational methods into practical tools for real-world planning, operation, and investment decisions.</p>
 
 </div>
 
@@ -35,59 +32,74 @@ title: "Principal Investigator"
 
 <h2>Education</h2>
 
-<p><strong>Ph.D. in Petroleum Engineering</strong><br>
-University of Alberta, Canada<br>
-2013–2018</p>
-
-<p><strong>M.Sc. in Earth Science and Engineering</strong><br>
-King Abdullah University of Science and Technology, Saudi Arabia<br>
-2011–2013</p>
-
-<p><strong>B.S. in Petroleum Engineering</strong><br>
-China University of Petroleum (East China), China<br>
-2007–2011</p>
+<ul>
+  <li>
+    <strong>Ph.D. in Petroleum Engineering</strong><br>
+    University of Alberta, Canada<br>
+    2013–2018
+  </li>
+  <li>
+    <strong>M.Sc. in Earth Science and Engineering</strong><br>
+    King Abdullah University of Science and Technology, Saudi Arabia
+  </li>
+  <li>
+    <strong>B.S. in Petroleum Engineering</strong><br>
+    China University of Petroleum (East China), China
+  </li>
+</ul>
 
 <h2>Postdoctoral training</h2>
 
-<p><strong>Postdoctoral Research Associate</strong><br>
-Los Alamos National Laboratory, USA<br>
-2022–2023</p>
-
-<p><strong>NSERC Postdoctoral Research Fellow</strong><br>
-Stanford University, USA<br>
-2020–2022</p>
-
-<p><strong>Postdoctoral Research Fellow</strong><br>
-University of Alberta, Canada<br>
-2018–2019</p>
+<ul>
+  <li>
+    <strong>Postdoctoral Research Associate</strong><br>
+    Los Alamos National Laboratory, USA<br>
+    2022–2023
+  </li>
+  <li>
+    <strong>NSERC Postdoctoral Research Fellow</strong><br>
+    Stanford University, USA<br>
+    2020–2022
+  </li>
+  <li>
+    <strong>Postdoctoral Research Fellow</strong><br>
+    University of Alberta, Canada<br>
+    2018–2019
+  </li>
+</ul>
 
 <h2>Professional history</h2>
 
-<p><strong>Assistant Professor</strong><br>
-Singapore Institute of Technology<br>
-2025–Present</p>
-
-<p><strong>Research Scientist</strong><br>
-New Mexico Institute of Mining and Technology<br>
-2025</p>
-
-<p><strong>Staff Scientist</strong><br>
-Los Alamos National Laboratory<br>
-2023–2025</p>
+<ul>
+  <li>
+    <strong>Assistant Professor</strong><br>
+    Singapore Institute of Technology<br>
+    2025–Present
+  </li>
+  <li>
+    <strong>Adjunct Faculty</strong><br>
+    New Mexico Institute of Mining and Technology<br>
+    2025–Present
+  </li>
+  <li>
+    <strong>Research Scientist</strong><br>
+    New Mexico Institute of Mining and Technology<br>
+    2025
+  </li>
+  <li>
+    <strong>Staff Scientist</strong><br>
+    Los Alamos National Laboratory<br>
+    2023–2025
+  </li>
+</ul>
 
 <h2>Research impact</h2>
 
-<p>Dr. Ma has contributed to the development of computational tools and decision-support frameworks for energy and carbon-management systems, including <strong>SimCCS 3.0, SCO₂T, CostMAP</strong>, and optimization frameworks for subsurface applications.</p>
-
-<p>His research has involved projects supported by organizations and programs including <strong>A*STAR, the U.S. Department of Energy, NSERC</strong>, and major CCUS research partnerships.</p>
+<p>Dr. Ma has led and contributed to the development of computational tools and decision-support frameworks for carbon management, subsurface systems, and energy infrastructure, including <strong>SimCCS<sup>3.0</sup>, SCO<sub>2</sub>T, and CostMAP</strong>. His work integrates engineering models with optimization, techno-economic analysis, and uncertainty quantification to support practical infrastructure planning and risk-informed decision-making. His research and software have been used in studies supporting <strong>U.S. federal agencies and national laboratories</strong>, helping inform policy analysis and strategic decision-making related to CCUS deployment, CO<sub>2</sub> transport and storage, and low-carbon infrastructure. His research has also contributed to major collaborative programs supported by the <strong>U.S. Department of Energy, A*STAR, NSERC</strong>, and international CCUS partnerships. He has authored and co-authored more than <strong>60 journal and conference publications</strong> spanning AI, optimization, CCUS, subsurface systems, and energy infrastructure.</p>
 
 <h2>Professional leadership</h2>
 
-<p>Dr. Ma serves as an <strong>Associate Editor of <em>Geoenergy Science and Engineering</em></strong> and contributes to international CCUS conferences and technical committees. His professional activities also include guest editing, peer review, conference organization, invited presentations, and technical engagement in AI, CCUS, energy systems, and computational engineering.</p>
-
-<h2>Teaching and mentoring</h2>
-
-<p>At SIT, Dr. Ma teaches and contributes to courses in <strong>data analytics and process safety</strong> and supervises research involving AI, optimization, energy systems, infrastructure, and data-driven engineering.</p>
+<p>Dr. Ma serves as an <strong>Associate Editor of <em>Geoenergy Science and Engineering</em></strong> and contributes actively to international CCUS conferences and technical communities. He has served on <strong>conference technical and program committees</strong>, including major CCUS events organized across the SPE, SEG, and AAPG communities, and has contributed as a session chair, moderator, abstract reviewer, and technical reviewer. His professional activities also include guest editing, peer review, conference organization, invited presentations, and technical engagement in AI, CCUS, energy systems, and computational engineering.</p>
 
 <h2>Research philosophy</h2>
 
