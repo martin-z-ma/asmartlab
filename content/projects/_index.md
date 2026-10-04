@@ -1,3 +1,8 @@
+---
+title: "Projects"
+---
+
+
 # Current Projects
 
 ### Risk-Adjusted Techno-Economic Analysis of Cross-Border CO₂ Maritime Transport
