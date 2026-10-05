@@ -193,36 +193,24 @@ footer {
   }
 }
 
-/* Mainpage photo */
-.hero-image {
-width: 100%;
-max-width: 650px;
-height: auto;
-display: block;
-margin: 0 auto;
-}
-
-
-
-/* Hero art container — remove blue box */
+/* Hero art container */
 .hero-art {
   background-color: transparent;
   border-radius: 0;
   padding: 0;
   height: fit-content;
-  align-self: flex-start;
+  align-self: center;       /* ← change from flex-start to center */
   display: flex;
-  align-items: flex-start;
+  align-items: center;      /* ← change from flex-start to center */
 }
 
-/* Hero image — fill the column */
+/* Hero image */
 .hero-image {
   width: 100%;
-  max-width: 100%;
+  max-width: 100%;           /* ← no cap, fills full column */
   height: auto;
   display: block;
   margin: 0 auto;
   border-radius: 12px;
 }
-
 
