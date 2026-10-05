@@ -2,10 +2,6 @@
 title: "Publications"
 ---
 
-Browse the complete publication record below. Select a title to expand the paper details, image placeholder, links, and optional PDF preview.
-
-> **Website note:** Each entry includes a unique image path. Add the matching image to `static/images/publications/`. Add a `pdf="/papers/filename.pdf"` field only when an author-approved PDF may be redistributed.
-
 ## Journal Publications
 
 ### 2026
