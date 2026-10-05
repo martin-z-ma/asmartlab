@@ -2,18 +2,293 @@
 title: "Team"
 ---
 
+<div class="research-intro">
+<strong>Meet the researchers and students working with A-SMART Lab.</strong>
+</div>
+
+<br>
+
 ## Principal Investigator
 
-<div class="person"><div class="avatar">MM</div><div><strong>Dr. Martin Z. Ma</strong><br>Assistant Professor and Principal Investigator<br><a href="/pi/">View profile</a></div></div>
+<div class="person">
+  <div class="avatar">MM</div>
+  <div>
+    <strong>Dr. Martin Z. Ma</strong><br>
+    Assistant Professor, Singapore Institute of Technology<br>
+    Adjunct Faculty, New Mexico Institute of Mining and Technology<br>
+    Principal Investigator, A-SMART Lab<br><br>
+    <small>
+    AI & Scientific Machine Learning • Optimization & Decision Intelligence •
+    CCUS & Low-Carbon Infrastructure • Subsurface & Geoenergy Systems
+    </small>
+  </div>
+</div>
+
+<br>
 
 ## Research Staff
 
-<div class="team-grid"><div class="member-placeholder">Photo placeholder<br><strong>Research staff member</strong><br><small>Role and research topic</small></div><div class="member-placeholder">Photo placeholder<br><strong>Research staff member</strong><br><small>Role and research topic</small></div></div>
+<div class="team-grid">
 
-## Students
+<div class="member-placeholder">
+<div class="avatar">DK</div>
+<strong>Dr. Deyang Kong</strong><br>
+Research Fellow<br>
+Singapore Institute of Technology<br><br>
+<small>
+<strong>Research:</strong> AI-assisted integrated verification and tracing for rebar delivery<br>
+<strong>Mentoring location:</strong> Singapore Institute of Technology, Singapore
+</small>
+</div>
 
-<div class="team-grid"><div class="member-placeholder">Photo placeholder<br><strong>Student member</strong><br><small>Programme and project</small></div><div class="member-placeholder">Photo placeholder<br><strong>Student member</strong><br><small>Programme and project</small></div><div class="member-placeholder">Photo placeholder<br><strong>Student member</strong><br><small>Programme and project</small></div></div>
+<div class="member-placeholder">
+<div class="avatar">AS</div>
+<strong>Alqawzai Shagea</strong><br>
+Research Fellow<br>
+Singapore Institute of Technology<br><br>
+<small>
+<strong>Research:</strong> AI-assisted integrated verification and tracing for rebar delivery<br>
+<strong>Mentoring location:</strong> Singapore Institute of Technology, Singapore
+</small>
+</div>
 
-## Alumni and Collaborators
+<div class="member-placeholder">
+<div class="avatar">DH</div>
+<strong>David Ho Ze Ern</strong><br>
+Research Engineer<br>
+Singapore Institute of Technology<br><br>
+<small>
+<strong>Research:</strong> AI-assisted integrated verification and tracing for rebar delivery<br>
+<strong>Mentoring location:</strong> Singapore Institute of Technology, Singapore
+</small>
+</div>
 
-Profiles may be added after confirming public information and consent.
+</div>
+
+<br>
+
+## Graduate Researchers
+
+<div class="team-grid">
+
+<div class="member-placeholder">
+<div class="avatar">EO</div>
+<strong>Evans Owusu</strong><br>
+M.S. Student<br>
+New Mexico Institute of Mining and Technology<br><br>
+<small>
+<strong>Research:</strong> CO₂ transportation and infrastructure design<br>
+<strong>Mentoring location:</strong> New Mexico Institute of Mining and Technology, USA
+</small>
+</div>
+
+</div>
+
+<br>
+
+## Undergraduate Researchers
+
+### Final Year Project Students
+
+<div class="team-grid">
+
+<div class="member-placeholder">
+<div class="avatar">NA</div>
+<strong>Ng Axel</strong><br>
+Undergraduate Researcher / Final Year Project Student<br>
+Singapore Institute of Technology<br><br>
+<small>
+<strong>Project:</strong> Effects of Complementary Plant Proteins to Enhance the Nutritional and Techno-Functional Properties of Mushroom-Based Foods: A Systematic Literature Review<br><br>
+<strong>Mentoring location:</strong> Singapore Institute of Technology, Singapore
+</small>
+</div>
+
+<div class="member-placeholder">
+<div class="avatar">SA</div>
+<strong>Siow Ai Xin</strong><br>
+Undergraduate Researcher / Final Year Project Student<br>
+Singapore Institute of Technology<br><br>
+<small>
+<strong>Project:</strong> Enhancing Functional Properties of Mushroom Proteins through Water Extraction and Heating-Based Methods<br><br>
+<strong>Mentoring location:</strong> Singapore Institute of Technology, Singapore
+</small>
+</div>
+
+<div class="member-placeholder">
+<div class="avatar">WS</div>
+<strong>Walter Sim Yang</strong><br>
+Undergraduate Researcher / Final Year Project Student<br>
+Singapore Institute of Technology<br><br>
+<small>
+<strong>Project:</strong> From Bean to Brew: How Much CO₂ Does It Take to Drink a Cup of Coffee? Carbon Footprint Analysis and Emission Reduction Strategies for Coffee Supplied to Singapore<br><br>
+<strong>Mentoring location:</strong> Singapore Institute of Technology, Singapore
+</small>
+</div>
+
+</div>
+
+<br>
+
+### Bachelor Thesis Students — Chemical Engineering
+
+<div class="team-grid">
+
+<div class="member-placeholder">
+<div class="avatar">CW</div>
+<strong>Chan Wei Jie</strong><br>
+Undergraduate Researcher / Bachelor Thesis Student<br>
+Chemical Engineering, Singapore Institute of Technology<br><br>
+<small>
+<strong>Project:</strong> Digital Transformation of ESHQ Frameworks: A Multi-Process Automation Study<br><br>
+<strong>Mentoring location:</strong> Singapore Institute of Technology, Singapore
+</small>
+</div>
+
+<div class="member-placeholder">
+<div class="avatar">LS</div>
+<strong>Liu Sunan</strong><br>
+Undergraduate Researcher / Bachelor Thesis Student<br>
+Chemical Engineering, Singapore Institute of Technology<br><br>
+<small>
+<strong>Project:</strong> Process Design, Optimisation & Digitalisation: Clean-In-Place (CIP) Optimisation Project<br><br>
+<strong>Mentoring location:</strong> Singapore Institute of Technology, Singapore
+</small>
+</div>
+
+<div class="member-placeholder">
+<div class="avatar">CJ</div>
+<strong>Chan Jia Xuan</strong><br>
+Undergraduate Researcher / Bachelor Thesis Student<br>
+Chemical Engineering, Singapore Institute of Technology<br><br>
+<small>
+<strong>Project:</strong> Deployment of Run-to-Run for Critical Dimensions Tuning<br><br>
+<strong>Mentoring location:</strong> Singapore Institute of Technology, Singapore
+</small>
+</div>
+
+<div class="member-placeholder">
+<div class="avatar">AI</div>
+<strong>Ang Zi Li Irwin</strong><br>
+Undergraduate Researcher / Bachelor Thesis Student<br>
+Chemical Engineering, Singapore Institute of Technology<br><br>
+<small>
+<strong>Project:</strong> Experimental Evaluation and Optimization of Microparticle Purification Processes in Production<br><br>
+<strong>Mentoring location:</strong> Singapore Institute of Technology, Singapore
+</small>
+</div>
+
+</div>
+
+<br>
+
+## Former Research Mentees
+
+The following researchers and students were supervised or mentored by Dr. Ma at previous institutions before the establishment of A-SMART Lab.
+
+### Postdoctoral Researchers
+
+**Dr. Quan Guo**  
+Postdoctoral Research Associate  
+*Machine-learning-based CO₂ storage and transport design and modeling*  
+**Role:** Primary Mentor  
+**Period:** 2024–2025  
+**Mentoring location:** Los Alamos National Laboratory, New Mexico, USA
+
+<br>
+
+**Dr. Fangning Zheng**  
+Postdoctoral Research Associate  
+*Machine-learning-based multi-objective optimization for geological CO₂ storage*  
+**Role:** Co-Mentor  
+**Period:** 2024–2025  
+**Mentoring location:** Los Alamos National Laboratory, New Mexico, USA
+
+<br>
+
+**Dr. Moises Velasco Lozano**  
+Postdoctoral Research Associate  
+*Large-scale CO₂ transportation network design and modeling*  
+**Role:** Co-Mentor  
+**Period:** 2023–2025  
+**Mentoring location:** Los Alamos National Laboratory, New Mexico, USA
+
+<br>
+
+### Graduate Researchers
+
+**Seyide Hunyinbo**  
+M.Sc. Student in Petroleum Engineering  
+*Application of data-driven techniques to SAGD and solvent-aided recovery processes*  
+**Role:** Co-Mentor  
+**Period:** 2018–2019  
+**Mentoring location:** University of Alberta, Edmonton, Canada
+
+<br>
+
+**Luis Eduardo Coimbra**  
+M.Sc. Student in Petroleum Engineering  
+*Multi-objective optimization workflow for steam-alternating-solvent heavy-oil recovery process design*  
+**Role:** Co-Mentor  
+**Period:** 2018–2019  
+**Mentoring location:** University of Alberta, Edmonton, Canada
+
+<br>
+
+**Chang Gao**  
+M.Sc. Student in Petroleum Engineering  
+*Fast screening of 3D heterogeneous shale-barrier configurations and their impacts on SAGD production behavior*  
+**Role:** Co-Mentor  
+**Period:** 2018–2019  
+**Mentoring location:** University of Alberta, Edmonton, Canada
+
+<br>
+
+**Yaqi Liu**  
+M.Eng. Student in Petroleum Engineering  
+*Data-driven modeling for SAGD production analysis*  
+**Role:** Co-Mentor  
+**Period:** 2013–2015  
+**Mentoring location:** University of Alberta, Edmonton, Canada
+
+<br>
+
+### Visiting & Summer Researchers
+
+**Maureen James**  
+Summer Graduate Researcher  
+Colorado School of Mines  
+*Multimodal CO₂ transportation modeling tool development*  
+**Role:** Primary Mentor  
+**Period:** 2024–2025  
+**Mentoring location:** Los Alamos National Laboratory, New Mexico, USA
+
+<br>
+
+**AJ Emmanuel Simon**  
+Mickey Leland Energy Fellowship Summer Researcher  
+Virginia State University  
+*Underground hydrogen storage modeling under geological heterogeneity*  
+**Role:** Primary Mentor  
+**Period:** 2023  
+**Mentoring location:** Los Alamos National Laboratory, New Mexico, USA
+
+<br>
+
+**Richard Larson**  
+Mickey Leland Energy Fellowship Summer Researcher  
+University of Texas at Austin  
+*Pore-scale CO₂ storage modeling*  
+**Role:** Co-Mentor  
+**Period:** 2023  
+**Mentoring location:** Los Alamos National Laboratory, New Mexico, USA  
+<small>Winner, 2023 Los Alamos National Laboratory Student Symposium</small>
+
+<br>
+
+---
+
+## Join A-SMART Lab
+
+A-SMART Lab welcomes motivated researchers and students interested in **AI-enabled engineering, scientific machine learning, optimization, uncertainty quantification, CCUS, geoenergy, and sustainable infrastructure systems**.
+
+Opportunities may include research staff positions, graduate research, final-year projects, bachelor thesis projects, internships, and visiting research collaborations.
