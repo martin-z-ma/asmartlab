@@ -203,3 +203,26 @@ margin: 0 auto;
 }
 
 
+
+/* Hero art container — remove blue box */
+.hero-art {
+  background-color: transparent;
+  border-radius: 0;
+  padding: 0;
+  height: fit-content;
+  align-self: flex-start;
+  display: flex;
+  align-items: flex-start;
+}
+
+/* Hero image — fill the column */
+.hero-image {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  border-radius: 12px;
+}
+
+
