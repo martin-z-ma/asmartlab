@@ -230,7 +230,7 @@ footer {
 }
 
 
-/* Team grid */
+
 .team-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -238,23 +238,15 @@ footer {
   margin: 24px 0 40px;
 }
 
-/* Real team member card */
 .team-member {
-  background: #ffffff;
-  border: 1px solid #d9e2e7;
-  border-radius: 12px;
-  padding: 28px 24px;
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  padding: 16px 12px 24px;
   text-align: center;
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.05);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  box-shadow: none;
 }
 
-.team-member:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.08);
-}
-
-/* Initial/photo circle */
 .team-member .avatar {
   width: 82px;
   height: 82px;
@@ -269,14 +261,12 @@ footer {
   font-weight: 700;
 }
 
-/* Name */
 .team-member h3 {
-  margin: 0 0 14px;
+  margin: 0 0 12px;
   font-size: 20px;
   color: #102c42;
 }
 
-/* Position */
 .member-role {
   font-size: 17px;
   font-weight: 600;
@@ -284,30 +274,25 @@ footer {
   margin-bottom: 4px;
 }
 
-/* Institution */
 .member-affiliation {
   font-size: 15px;
   color: #607786;
-  margin-bottom: 22px;
+  margin-bottom: 16px;
 }
 
-/* Research area */
-.member-topic {
-  border-top: 1px solid #e6ecef;
-  padding-top: 18px;
+.team-member p {
+  margin: 0;
   font-size: 14px;
-  line-height: 1.55;
+  line-height: 1.6;
   color: #445d6c;
 }
 
-/* Tablet */
 @media (max-width: 900px) {
   .team-grid {
     grid-template-columns: repeat(2, 1fr);
   }
 }
 
-/* Mobile */
 @media (max-width: 600px) {
   .team-grid {
     grid-template-columns: 1fr;
