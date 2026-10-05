@@ -193,24 +193,38 @@ footer {
   }
 }
 
-/* Hero art container */
-.hero-art {
-  background-color: transparent;
-  border-radius: 0;
-  padding: 0;
-  height: fit-content;
-  align-self: center;       /* ← change from flex-start to center */
-  display: flex;
-  align-items: center;      /* ← change from flex-start to center */
+/* Make shell wider */
+.shell {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 2rem;
 }
 
-/* Hero image */
+/* Give image MORE column space — 40/60 split */
+.hero-grid {
+  display: grid;
+  grid-template-columns: 40% 60%;   /* ← image gets 60% */
+  gap: 2rem;
+  align-items: center;
+}
+
+/* Remove ALL constraints from container */
+.hero-art {
+  background: none !important;
+  background-color: transparent !important;
+  border: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  width: 100% !important;
+  height: auto !important;
+  align-self: center;
+}
+
+/* Force image to fill column */
 .hero-image {
-  width: 100%;
-  max-width: 100%;           /* ← no cap, fills full column */
+  width: 100% !important;
+  max-width: none !important;   /* ← removes ALL size caps */
   height: auto;
   display: block;
-  margin: 0 auto;
-  border-radius: 12px;
+  border-radius: 8px;
 }
-
