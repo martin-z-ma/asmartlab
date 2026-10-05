@@ -56,7 +56,7 @@ New Mexico Institute of Mining and Technology\
 Final Year Project Student\
 Singapore Institute of Technology\
 *Effects of Complementary Plant Proteins to Enhance the Nutritional and Techno-Functional Properties of Mushroom-Based Foods: A Systematic Literature Review*\
-**Period:** 2026\
+**Period:** 2026
 
 <br>
 
@@ -64,7 +64,7 @@ Singapore Institute of Technology\
 Final Year Project Student\
 Singapore Institute of Technology\
 *Enhancing Functional Properties of Mushroom Proteins through Water Extraction and Heating-Based Methods*\
-**Period:** 2026\
+**Period:** 2026
 
 <br>
 
@@ -72,7 +72,7 @@ Singapore Institute of Technology\
 Final Year Project Student\
 Singapore Institute of Technology\
 *From Bean to Brew: How Much CO₂ Does It Take to Drink a Cup of Coffee? Carbon Footprint Analysis and Emission Reduction Strategies for Coffee Supplied to Singapore*\
-**Period:** 2026\
+**Period:** 2026
 
 <br>
 
@@ -81,28 +81,28 @@ Singapore Institute of Technology\
 **Chan Wei Jie**\
 Bachelor Thesis Student, Chemical Engineering\
 Singapore Institute of Technology\
-*Digital Transformation of ESHQ Frameworks: A Multi-Process Automation Study*\
+*Digital Transformation of ESHQ Frameworks: A Multi-Process Automation Study*
 
 <br>
 
 **Liu Sunan**\
 Bachelor Thesis Student, Chemical Engineering\
 Singapore Institute of Technology\
-*Process Design, Optimisation & Digitalisation: Clean-In-Place (CIP) Optimisation Project*\
+*Process Design, Optimisation & Digitalisation: Clean-In-Place (CIP) Optimisation Project*
 
 <br>
 
 **Chan Jia Xuan**\
 Bachelor Thesis Student, Chemical Engineering\
 Singapore Institute of Technology\
-*Deployment of Run-to-Run for Critical Dimensions Tuning*\
+*Deployment of Run-to-Run for Critical Dimensions Tuning*
 
 <br>
 
 **Ang Zi Li Irwin**\
 Bachelor Thesis Student, Chemical Engineering\
 Singapore Institute of Technology\
-*Experimental Evaluation and Optimization of Microparticle Purification Processes in Production*\
+*Experimental Evaluation and Optimization of Microparticle Purification Processes in Production*
 
 <br>
 
