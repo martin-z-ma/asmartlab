@@ -13,10 +13,9 @@ title: "Publications"
   journal="International Journal of Greenhouse Gas Control 155, 104737"
   year="2026"
   doi="https://doi.org/10.1016/j.ijggc.2026.104737"
-  image="/images/publications/j38-atmospheric-dispersion-and-risk-assessment-of-co2-pipeline-releases-using-the-unified-.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J38.
+**Research summary:** This study extends the SimCCS platform with atmospheric-dispersion and risk-assessment capabilities for accidental CO₂ pipeline releases. By integrating rapid dispersion models and validating them against controlled-release experiments, the workflow supports screening of consequence zones and safer pipeline routing within large-scale CCS infrastructure planning.
 
 {{< /paper >}}
 
@@ -27,10 +26,9 @@ Add a plain-language summary and key contribution for J38.
   journal="Energy Conversion and Management 366, 121855"
   year="2026"
   doi="https://doi.org/10.1016/j.enconman.2026.121855"
-  image="/images/publications/j37-simh2-an-integrated-techno-economic-modeling-framework-for-hydrogen-pipeline-infrastru.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J37.
+**Research summary:** This work develops SimH₂, an integrated techno-economic framework for modeling hydrogen pipeline transport and optimizing regional hydrogen infrastructure. The framework links pipeline hydraulics, compression requirements, transport costs, and network optimization to support system-level decisions on hydrogen production, transport, and delivery.
 
 {{< /paper >}}
 
@@ -41,10 +39,9 @@ Add a plain-language summary and key contribution for J37.
   journal="Sensors 26(9)"
   year="2026"
   doi="https://doi.org/10.3390/s26092573"
-  image="/images/publications/j36-synthetic-training-enables-deployment-on-raw-drone-data-an-attention-based-framework-f.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J36.
+**Research summary:** This study develops an attention-based deep-learning framework for detecting undocumented orphan wells from drone magnetometer data. Training on synthetic data enables deployment on raw field measurements with limited preprocessing, providing a scalable pathway for locating legacy wells that may pose environmental and carbon-storage risks.
 
 {{< /paper >}}
 
@@ -55,10 +52,9 @@ Add a plain-language summary and key contribution for J36.
   journal="International Journal of Greenhouse Gas Control 150, 104582"
   year="2026"
   doi="https://doi.org/10.1016/j.ijggc.2026.104582"
-  image="/images/publications/j35-unified-deep-learning-workflow-for-uncertainty-reduction-in-subsurface-carbon-storage-.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J35.
+**Research summary:** This work presents a deep-learning-assisted data-assimilation workflow that incorporates seismic-inverted CO₂ plume maps into subsurface carbon-storage models. The approach reduces geological uncertainty and improves the calibration of plume evolution, supporting more reliable conformance assessment, forecasting, and storage-risk evaluation.
 
 {{< /paper >}}
 
@@ -71,10 +67,9 @@ Add a plain-language summary and key contribution for J35.
   journal="Geoenergy Science and Engineering 255, 214063"
   year="2025"
   doi="https://doi.org/10.1016/j.geoen.2025.214063"
-  image="/images/publications/j34-leveraging-existing-co2-pipelines-and-pipeline-rights-of-way-for-large-scale-ccs-deplo.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J34.
+**Research summary:** This study evaluates how existing CO₂ pipelines and pipeline rights-of-way can be incorporated into large-scale CCS network design. Using SimCCS-based optimization, it shows how reuse of suitable infrastructure can reduce routing barriers, shorten deployment time, and lower transport-system costs while accounting for technical constraints.
 
 {{< /paper >}}
 
@@ -85,10 +80,9 @@ Add a plain-language summary and key contribution for J34.
   journal="Mathematical Geosciences, 1–41"
   year="2025"
   doi="https://doi.org/10.1007/s11004-025-10197-2"
-  image="/images/publications/j33-efficient-approximations-of-effective-permeability-of-fractured-porous-media-using-mac.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J33.
+**Research summary:** This work develops machine-learning approximations for the effective permeability of fractured porous media using computational-geometry descriptors of fracture networks. The approach is designed to reproduce flow-relevant behavior at much lower computational cost than finely resolved numerical simulations, enabling faster uncertainty analysis and multiscale modeling.
 
 {{< /paper >}}
 
@@ -99,10 +93,9 @@ Add a plain-language summary and key contribution for J33.
   journal="International Journal of Hydrogen Energy 147, 150033"
   year="2025"
   doi="https://doi.org/10.1016/j.ijhydene.2025.150033"
-  image="/images/publications/j32-techno-economic-analysis-of-hydrogen-transport-via-repurposed-natural-gas-pipelines-fl.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J32.
+**Research summary:** This study assesses the technical and economic implications of transporting hydrogen through repurposed natural-gas pipelines. It quantifies flow, pressure-drop, compression, and infrastructure tradeoffs, showing when repurposing can reduce capital requirements and when dedicated hydrogen pipelines may offer better long-term performance.
 
 {{< /paper >}}
 
@@ -113,10 +106,9 @@ Add a plain-language summary and key contribution for J32.
   journal="International Journal of Greenhouse Gas Control 144, 104389"
   year="2025"
   doi="https://doi.org/10.1016/j.ijggc.2025.104389"
-  image="/images/publications/j31-assessing-the-feasibility-of-retrofitting-legacy-wells-for-co2-geological-sequestratio.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J31.
+**Research summary:** This study examines whether legacy oil and gas wells can be retrofitted for geologic CO₂ sequestration. A screening framework considers well integrity, materials, regulatory requirements, and conversion needs to identify suitable candidates and quantify where reuse may reduce drilling cost and project-development time.
 
 {{< /paper >}}
 
@@ -127,10 +119,9 @@ Add a plain-language summary and key contribution for J31.
   journal="SPE Journal, 1–16"
   year="2025"
   doi="https://doi.org/10.2118/220850-PA"
-  image="/images/publications/j30-deep-learning-assisted-multi-objective-optimization-of-geological-co2-storage-performa.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J30.
+**Research summary:** This work develops a deep-learning-assisted multi-objective optimization framework for geological CO₂ storage under geomechanical constraints. Fast surrogate models replace repeated coupled simulations so injection schedules can be optimized to increase stored CO₂ while limiting pressure-related and geomechanical risks.
 
 {{< /paper >}}
 
@@ -141,10 +132,9 @@ Add a plain-language summary and key contribution for J30.
   journal="Geoenergy Science and Engineering 244, 213405"
   year="2025"
   doi="https://doi.org/10.1016/j.geoen.2024.213405"
-  image="/images/publications/j29-a-dynamic-solvent-chamber-propagation-estimation-framework-using-rnn-for-warm-solvent-.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J29.
+**Research summary:** This study develops a recurrent-neural-network framework for estimating the evolution of solvent chambers during warm-solvent injection in heterogeneous reservoirs. Sequence-to-sequence learning captures time-dependent chamber growth from production information, providing rapid predictions that can replace many computationally expensive flow simulations.
 
 {{< /paper >}}
 
@@ -157,10 +147,9 @@ Add a plain-language summary and key contribution for J29.
   journal="Scientific Reports 14(1), 31702"
   year="2024"
   doi="https://doi.org/10.1038/s41598-024-81846-5"
-  image="/images/publications/j28-information-extraction-from-historical-well-records-using-a-large-language-model.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J28.
+**Research summary:** This study evaluates large language models for extracting structured information from historical well records, with a focus on fields such as well location and depth. The workflow demonstrates how LLM-based information extraction can accelerate the digitization and characterization of legacy records needed for orphan-well identification and environmental assessment.
 
 {{< /paper >}}
 
@@ -171,10 +160,9 @@ Add a plain-language summary and key contribution for J28.
   journal="Environmental Science & Technology 58(44), 19584–19594"
   year="2024"
   doi="https://doi.org/10.1021/acs.est.4c02069"
-  image="/images/publications/j27-unlocking-solutions-innovative-approaches-to-identifying-and-mitigating-the-environmen.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J27.
+**Research summary:** This review examines the environmental risks associated with undocumented orphan wells in the United States and surveys emerging approaches for finding and characterizing them. It connects historical-record analysis, remote sensing, geophysical detection, methane-emission assessment, and policy needs to support more efficient well identification and remediation.
 
 {{< /paper >}}
 
@@ -185,10 +173,9 @@ Add a plain-language summary and key contribution for J27.
   journal="Journal of Environmental Management 370, 122522"
   year="2024"
   doi="https://doi.org/10.1016/j.jenvman.2024.122522"
-  image="/images/publications/j26-optimizing-large-scale-co2-pipeline-networks-using-a-geospatial-splitting-approach.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J26.
+**Research summary:** This work proposes a geospatial basin-splitting strategy for optimizing very large CO₂ pipeline networks. Dividing broad storage regions into strategically defined sub-sinks reduces network complexity and can shorten pipelines and lower system costs, making national- and regional-scale CCS infrastructure optimization more computationally tractable.
 
 {{< /paper >}}
 
@@ -199,10 +186,9 @@ Add a plain-language summary and key contribution for J26.
   journal="Journal of Environmental Management 361, 121271"
   year="2024"
   doi="https://doi.org/10.1016/j.jenvman.2024.121271"
-  image="/images/publications/j25-sustainable-energy-solutions-well-retrofit-analysis-and-emission-reduction-for-a-net-z.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J25.
+**Research summary:** This study evaluates opportunities to reuse existing wells and reduce upstream emissions as part of a lower-carbon energy transition in the U.S. Intermountain West. It combines well-retrofit screening with analysis of fugitive and flaring emissions to identify practical pathways for reducing emissions and enabling geologic CO₂ storage.
 
 {{< /paper >}}
 
@@ -213,10 +199,9 @@ Add a plain-language summary and key contribution for J25.
   journal="Journal of Rock Mechanics and Geotechnical Engineering 16(6), 2111–2125"
   year="2024"
   doi="https://doi.org/10.1016/j.jrmge.2024.02.009"
-  image="/images/publications/j24-development-of-a-convolutional-neural-network-based-geomechanical-upscaling-technique-.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J24.
+**Research summary:** This work develops a convolutional-neural-network approach for geomechanical upscaling in heterogeneous geological reservoirs. The model learns relationships between fine-scale lithologic configurations and effective mechanical responses, providing fast estimates of stress-strain behavior and strength while substantially reducing the cost of repeated numerical upscaling.
 
 {{< /paper >}}
 
@@ -227,10 +212,9 @@ Add a plain-language summary and key contribution for J24.
   journal="SPE Journal, 1–10"
   year="2024"
   doi="https://doi.org/10.2118/212975-PA"
-  image="/images/publications/j23-assimilation-of-geophysics-derived-spatial-data-for-model-calibration-in-geologic-co2-.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J23.
+**Research summary:** This study incorporates geophysics-derived spatial observations, including time-lapse information on the CO₂ plume, into reservoir-model calibration for geologic carbon storage. Assimilating spatial data alongside conventional monitoring observations reduces model uncertainty and improves forecasts of plume behavior and storage-performance risk metrics.
 
 {{< /paper >}}
 
@@ -241,10 +225,9 @@ Add a plain-language summary and key contribution for J23.
   journal="Applied Energy 361, 122914"
   year="2024"
   doi="https://doi.org/10.1016/j.apenergy.2024.122914"
-  image="/images/publications/j22-efficient-prediction-of-hydrogen-storage-performance-in-depleted-gas-reservoirs-using-.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J22.
+**Research summary:** This work develops machine-learning reduced-order models for rapid prediction of underground hydrogen-storage performance in depleted gas reservoirs. The surrogates support sensitivity analysis, uncertainty quantification, and operational optimization at a fraction of the computational cost of repeated full-physics reservoir simulations.
 
 {{< /paper >}}
 
@@ -255,10 +238,9 @@ Add a plain-language summary and key contribution for J22.
   journal="Renewable and Sustainable Energy Transition 5, 100077"
   year="2024"
   doi="https://doi.org/10.1016/j.rset.2024.100077"
-  image="/images/publications/j21-economic-assessment-of-clean-hydrogen-production-from-fossil-fuels-in-the-intermountai.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J21.
+**Research summary:** This study compares the economics of fossil-based clean-hydrogen production pathways in the U.S. Intermountain West, including configurations with carbon capture and storage. It evaluates production costs, hub siting, policy incentives, and technology choices to identify conditions under which low-carbon hydrogen can be economically competitive.
 
 {{< /paper >}}
 
@@ -269,10 +251,9 @@ Add a plain-language summary and key contribution for J21.
   journal="Renewable and Sustainable Energy Reviews 189, 113945"
   year="2024"
   doi="https://doi.org/10.1016/j.rser.2023.113945"
-  image="/images/publications/j20-a-review-of-risk-and-uncertainty-assessment-for-geologic-carbon-storage.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J20.
+**Research summary:** This review synthesizes methods for assessing risk and uncertainty in geologic carbon storage. It covers uncertainty in subsurface properties and operations together with key risks such as plume migration, leakage, pressure buildup, and induced seismicity, and discusses how monitoring and quantitative risk analysis can support storage decisions.
 
 {{< /paper >}}
 
@@ -285,10 +266,9 @@ Add a plain-language summary and key contribution for J20.
   journal="Scientific Reports 13, 6527"
   year="2023"
   doi="https://doi.org/10.1038/s41598-023-33512-5"
-  image="/images/publications/j19-phase-based-design-of-co2-capture-transport-and-storage-infrastructure-via-simccs.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J19.
+**Research summary:** This work introduces a phase-based capability in SimCCS for designing CO₂ capture, transport, and storage systems that evolve over time. The framework optimizes infrastructure across multiple deployment stages, allowing sources, storage sites, transport capacity, and economic conditions to change as a CCS network expands.
 
 {{< /paper >}}
 
@@ -299,10 +279,9 @@ Add a plain-language summary and key contribution for J19.
   journal="SPE Journal 28(2), 737–753"
   year="2023"
   doi="https://doi.org/10.2118/208885-PA"
-  image="/images/publications/j18-upscaling-shear-strength-of-heterogeneous-oil-sands-with-interbedded-shales-using-arti.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J18.
+**Research summary:** This study proposes a machine-learning-enhanced upscaling method for estimating the anisotropic shear strength of heterogeneous oil sands containing interbedded shale. Artificial-neural-network proxies reproduce numerical-upscaling results with high accuracy while reducing computational effort by orders of magnitude, enabling efficient regional geomechanical analysis.
 
 {{< /paper >}}
 
@@ -313,10 +292,9 @@ Add a plain-language summary and key contribution for J18.
   journal="Energy & Fuels 37(5), 3672–3684"
   year="2023"
   doi="https://doi.org/10.1021/acs.energyfuels.2c04000"
-  image="/images/publications/j17-reuse-of-produced-water-from-the-petroleum-industry-case-studies-from-the-intermountai.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J17.
+**Research summary:** This study evaluates beneficial reuse pathways for produced water from petroleum operations in the U.S. Intermountain West. It links water quality, treatment requirements, regulatory considerations, and economics to potential applications such as agriculture, hydraulic fracturing, and hydrogen production.
 
 {{< /paper >}}
 
@@ -327,10 +305,9 @@ Add a plain-language summary and key contribution for J17.
   journal="International Journal of Hydrogen Energy 48(24), 9008–9022"
   year="2023"
   doi="https://doi.org/10.1016/j.ijhydene.2022.11.292"
-  image="/images/publications/j16-capacity-assessment-and-cost-analysis-of-geologic-storage-of-hydrogen-a-case-study-in-.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J16.
+**Research summary:** This work evaluates the capacity and cost of underground hydrogen storage in depleted gas reservoirs, salt caverns, and saline aquifers in the U.S. Intermountain West. The techno-economic analysis identifies promising storage sites, estimates regional storage potential, and compares levelized storage costs across geologic options.
 
 {{< /paper >}}
 
@@ -343,10 +320,9 @@ Add a plain-language summary and key contribution for J16.
   journal="Mathematical Geosciences 54, 1261–1287"
   year="2022"
   doi="https://doi.org/10.1007/s11004-022-10020-2"
-  image="/images/publications/j15-optimization-of-subsurface-flow-operations-using-a-dynamic-proxy-strategy.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J15.
+**Research summary:** This study develops a dynamic-proxy strategy for optimization of subsurface flow operations. Rather than relying on a fixed surrogate, the workflow updates an artificial-neural-network proxy during optimization as new high-fidelity simulations become available, reducing simulation demand while maintaining optimization performance.
 
 {{< /paper >}}
 
@@ -357,10 +333,9 @@ Add a plain-language summary and key contribution for J15.
   journal="Computational Geosciences 26, 1503–1535"
   year="2022"
   doi="https://doi.org/10.1007/s10596-022-10170-6"
-  image="/images/publications/j14-design-of-optimal-operational-parameters-for-steam-alternating-solvent-processes-in-he.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J14.
+**Research summary:** This work develops a multi-objective optimization framework for designing steam-alternating-solvent operations in heterogeneous heavy-oil reservoirs. Proxy models and evolutionary algorithms are used to balance recovery, steam use, and solvent use while explicitly examining how shale-barrier configurations change the preferred operating strategy.
 
 {{< /paper >}}
 
@@ -371,10 +346,9 @@ Add a plain-language summary and key contribution for J14.
   journal="Journal of Petroleum Science and Engineering 214, 110448"
   year="2022"
   doi="https://doi.org/10.1016/j.petrol.2022.110448"
-  image="/images/publications/j13-multigroup-strategy-for-well-control-optimization.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J13.
+**Research summary:** This study proposes a multigroup strategy for high-dimensional well-control optimization. Decision variables are ranked and divided into groups that are optimized sequentially, reducing the number of expensive reservoir simulations while preserving or improving economic performance relative to conventional optimization approaches.
 
 {{< /paper >}}
 
@@ -385,10 +359,9 @@ Add a plain-language summary and key contribution for J13.
   journal="SPE Production & Operations 37, 586–602"
   year="2022"
   doi="https://doi.org/10.2118/210557-PA"
-  image="/images/publications/j12-design-of-steam-alternating-solvent-process-operational-parameters-considering-shale-h.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J12.
+**Research summary:** This work investigates the design of steam-alternating-solvent operating parameters when shale barriers create significant reservoir heterogeneity. The study quantifies how geological configuration changes process performance and identifies operating choices that improve recovery while reducing steam and solvent requirements.
 
 {{< /paper >}}
 
@@ -401,10 +374,9 @@ Add a plain-language summary and key contribution for J12.
   journal="Journal of Petroleum Science and Engineering 206, 109089"
   year="2021"
   doi="https://doi.org/10.1016/j.petrol.2021.109089"
-  image="/images/publications/j11-efficient-tracking-and-estimation-of-solvent-chamber-development-during-warm-solvent-i.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J11.
+**Research summary:** This study develops a machine-learning workflow for rapidly tracking solvent-chamber development during warm-solvent injection in heterogeneous reservoirs. Production time-series information is used to estimate chamber evolution, providing a computationally efficient complement to detailed simulation and field-monitoring approaches.
 
 {{< /paper >}}
 
@@ -415,10 +387,9 @@ Add a plain-language summary and key contribution for J11.
   journal="Water Resources Research 57(11), e2021WR030594"
   year="2021"
   doi="https://doi.org/10.1029/2021WR030594"
-  image="/images/publications/j10-influences-of-dead-end-pores-in-porous-media-on-viscous-fingering-instabilities-and-cl.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J10.
+**Research summary:** This work investigates how dead-end pores influence viscous fingering and the removal of non-aqueous-phase liquids during miscible displacement. A pore-network-style conceptual model reveals distinct flow and trapping regimes, helping explain why contaminants can remain in low-connectivity regions even during continued flushing.
 
 {{< /paper >}}
 
@@ -429,10 +400,9 @@ Add a plain-language summary and key contribution for J10.
   journal="Journal of Petroleum Science and Engineering 205, 108949"
   year="2021"
   doi="https://doi.org/10.1016/j.petrol.2021.108949"
-  image="/images/publications/j9-incorporating-phase-behavior-constraints-in-the-multi-objective-optimization-of-a-warm-.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J9.
+**Research summary:** This study develops a multi-objective optimization workflow for warm vaporized-solvent injection that explicitly incorporates fluid phase-behavior constraints. The framework searches for Pareto-optimal operating conditions that balance production and solvent efficiency while excluding thermodynamically or operationally infeasible designs.
 
 {{< /paper >}}
 
@@ -445,10 +415,9 @@ Add a plain-language summary and key contribution for J9.
   journal="Computational Geosciences 24, 1239–1255"
   year="2020"
   doi="https://doi.org/10.1007/s10596-020-09940-x"
-  image="/images/publications/j8-integration-of-deep-learning-and-data-analytics-for-sagd-temperature-and-production-ana.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J8.
+**Research summary:** This work integrates deep learning with production and temperature data to characterize heterogeneity in steam-assisted gravity-drainage reservoirs. The workflow links dynamic thermal and production responses to shale-barrier patterns, providing a faster data-driven complement to conventional history matching.
 
 {{< /paper >}}
 
@@ -459,10 +428,9 @@ Add a plain-language summary and key contribution for J8.
   journal="Journal of Petroleum Science and Engineering 191, 107186"
   year="2020"
   doi="https://doi.org/10.1016/j.petrol.2020.107186"
-  image="/images/publications/j7-design-of-warm-solvent-injection-processes-for-heterogeneous-heavy-oil-reservoirs-a-hyb.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J7.
+**Research summary:** This study combines proxy modeling with Pareto-based multi-objective optimization to design warm-solvent injection processes in heterogeneous heavy-oil reservoirs. The workflow identifies operating strategies that balance oil recovery and solvent efficiency while accounting for uncertainty in shale-barrier distributions.
 
 {{< /paper >}}
 
@@ -473,10 +441,9 @@ Add a plain-language summary and key contribution for J7.
   journal="Knowledge-Based Systems 192, 105327"
   year="2020"
   doi="https://doi.org/10.1016/j.knosys.2019.105327"
-  image="/images/publications/j6-a-knowledge-based-heterogeneity-characterization-framework-for-3d-steam-assisted-gravit.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J6.
+**Research summary:** This work develops a knowledge-based and data-driven framework for characterizing three-dimensional shale heterogeneity in SAGD reservoirs. Reduced representations of shale distributions are linked to simulated production responses so inverse modeling can infer plausible heterogeneity patterns more efficiently than exhaustive history matching.
 
 {{< /paper >}}
 
@@ -489,10 +456,9 @@ Add a plain-language summary and key contribution for J6.
   journal="Journal of Petroleum Science and Engineering 176, 716–734"
   year="2019"
   doi="https://doi.org/10.1016/j.petrol.2019.01.106"
-  image="/images/publications/j5-integration-of-data-driven-modeling-techniques-for-lean-zone-and-shale-barrier-characte.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J5.
+**Research summary:** This study develops data-driven models for characterizing lean zones and shale barriers in heterogeneous SAGD reservoirs. By extracting informative features from production behavior and linking them to geological configurations, the workflow improves rapid assessment of reservoir heterogeneity and its impact on thermal recovery.
 
 {{< /paper >}}
 
@@ -505,10 +471,9 @@ Add a plain-language summary and key contribution for J5.
   journal="Journal of Petroleum Science and Engineering 163, 139–155"
   year="2018"
   doi="https://doi.org/10.1016/j.petrol.2017.12.046"
-  image="/images/publications/j4-integration-of-artificial-intelligence-and-production-data-analysis-for-shale-heterogen.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J4.
+**Research summary:** This work combines artificial intelligence with production-data analysis to infer shale-barrier characteristics in SAGD reservoirs. Data-derived production features are used to select and train predictive models, offering a practical complement to computationally intensive reservoir history matching.
 
 {{< /paper >}}
 
@@ -519,10 +484,9 @@ Add a plain-language summary and key contribution for J4.
   journal="Oil & Gas Sciences and Technology–Revue d’IFP Energies nouvelles 73, 9"
   year="2018"
   doi="https://doi.org/10.2516/ogst/2017042"
-  image="/images/publications/j3-correlating-stochastically-distributed-reservoir-heterogeneities-with-steam-assisted-gr.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J3.
+**Research summary:** This study examines how stochastically distributed reservoir heterogeneities affect SAGD production. By linking geological descriptors to production responses across many realizations, the analysis identifies heterogeneity characteristics that most strongly control steam-chamber development and recovery performance.
 
 {{< /paper >}}
 
@@ -535,10 +499,9 @@ Add a plain-language summary and key contribution for J3.
   journal="Journal of Energy Resources Technology 139(3)"
   year="2017"
   doi="https://doi.org/10.1115/1.4035751"
-  image="/images/publications/j2-practical-data-mining-and-artificial-neural-network-modeling-for-steam-assisted-gravity.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J2.
+**Research summary:** This work applies data mining and artificial neural networks to a large set of SAGD production data for performance analysis and prediction. The resulting models identify production patterns and provide fast forecasts that can support screening and operational decision-making without repeated detailed simulation.
 
 {{< /paper >}}
 
@@ -551,10 +514,9 @@ Add a plain-language summary and key contribution for J2.
   journal="Expert Systems with Applications 42(21), 7326–7343"
   year="2015"
   doi="https://doi.org/10.1016/j.eswa.2015.05.047"
-  image="/images/publications/j1-practical-implementation-of-knowledge-based-approaches-for-steam-assisted-gravity-drain.jpg"
 >}}
 
-Add a plain-language summary and key contribution for J1.
+**Research summary:** This study develops knowledge-based, data-mining, and artificial-neural-network approaches for practical SAGD production analysis using field data. The framework captures relationships between operating conditions and production performance while incorporating uncertainty to support rapid engineering evaluation.
 
 {{< /paper >}}
 
@@ -569,10 +531,9 @@ Add a plain-language summary and key contribution for J1.
   journal="Los Alamos National Laboratory"
   year="2025"
   doi="https://doi.org/10.2172/2514419"
-  image="/images/publications/t3-co2-transport-infrastructure-outlook-in-the-united-states.jpg"
 >}}
 
-Add a plain-language summary and key contribution for T3.
+**Research summary:** This technical report examines the outlook for CO₂ transport infrastructure in the United States as carbon capture and storage expands. It evaluates the scale, spatial distribution, and development needs of future transport networks and discusses how infrastructure planning tools can support coordinated deployment across sources and storage resources.
 
 {{< /paper >}}
 
@@ -585,10 +546,9 @@ Add a plain-language summary and key contribution for T3.
   journal="Los Alamos National Laboratory"
   year="2024"
   doi="https://doi.org/10.2172/2372641"
-  image="/images/publications/t2-simccs-3-0-user-guide.jpg"
 >}}
 
-Add a plain-language summary and key contribution for T2.
+**Research summary:** This user guide documents SimCCS 3.0, an open-source platform for designing and optimizing CO₂ capture, transport, and storage infrastructure. It explains the software workflow, required inputs, major modeling components, optimization procedures, and outputs needed to construct and analyze regional or national CCS networks.
 
 {{< /paper >}}
 
@@ -599,10 +559,9 @@ Add a plain-language summary and key contribution for T2.
   journal="Los Alamos National Laboratory"
   year="2024"
   doi="https://doi.org/10.2172/2337631"
-  image="/images/publications/t1-co2-pipeline-analysis-for-existing-coal-fired-power-plants.jpg"
 >}}
 
-Add a plain-language summary and key contribution for T1.
+**Research summary:** This technical note analyzes CO₂ pipeline options for existing U.S. coal-fired power plants that could be paired with carbon capture. Using infrastructure-modeling and cost information, it evaluates potential transport connections between emitting facilities and geologic storage resources to inform retrofit and decarbonization planning.
 
 {{< /paper >}}
 
@@ -617,10 +576,9 @@ Add a plain-language summary and key contribution for T1.
   journal="SPE Reservoir Simulation Conference"
   year="2025"
   doi="https://doi.org/10.2118/223860-MS"
-  image="/images/publications/c26-leakage-remediation-strategy-at-carbon-storage-reservoir.jpg"
 >}}
 
-Add a plain-language summary and key contribution for C26.
+**Research summary:** This work investigates remediation of CO₂ leakage from geologic storage systems, particularly leakage associated with legacy or undocumented wells. It develops a pressure-management strategy based on brine extraction and analytical modeling to evaluate how remediation-well placement and operation can reduce reservoir pressure and mitigate leakage risk.
 
 {{< /paper >}}
 
@@ -631,10 +589,9 @@ Add a plain-language summary and key contribution for C26.
   journal="Winter Conference on Applications of Computer Vision (WACV), 9128–9137"
   year="2025"
   doi="https://doi.org/10.1109/WACV61041.2025.00886"
-  image="/images/publications/c25-patchfinder-leveraging-visual-language-models-for-accurate-information-retrieval-using.jpg"
 >}}
 
-Add a plain-language summary and key contribution for C25.
+**Research summary:** This paper introduces PatchFinder, a vision-language-model workflow for extracting information from noisy scanned documents. A model-confidence metric is used to adaptively select image patches and improve retrieval accuracy, enabling a relatively compact VLM to outperform larger general-purpose models on the evaluated historical-document dataset.
 
 {{< /paper >}}
 
@@ -647,10 +604,9 @@ Add a plain-language summary and key contribution for C25.
   journal="SPE Annual Technical Conference and Exhibition"
   year="2024"
   doi="https://doi.org/10.2118/220930-MS"
-  image="/images/publications/c24-reuse-of-existing-co2-pipeline-and-pipeline-rights-of-way-for-large-scale-ccs-deployme.jpg"
 >}}
 
-Add a plain-language summary and key contribution for C24.
+**Research summary:** This study evaluates reuse of existing CO₂ pipelines and pipeline rights-of-way in large-scale CCS infrastructure planning. The optimization framework represents technical constraints on reuse and quantifies how existing corridors can reduce new routing requirements, development barriers, and transport-system costs.
 
 {{< /paper >}}
 
@@ -661,10 +617,9 @@ Add a plain-language summary and key contribution for C24.
   journal="SPE Annual Technical Conference and Exhibition"
   year="2024"
   doi="https://doi.org/10.2118/220850-MS"
-  image="/images/publications/c23-deep-learning-assisted-multi-objective-optimization-of-geological-co2-storage-performa.jpg"
 >}}
 
-Add a plain-language summary and key contribution for C23.
+**Research summary:** This conference study develops a deep-learning-assisted multi-objective optimization workflow for CO₂ storage under geomechanical risk. Surrogate models accelerate repeated evaluations so injection strategies can be searched for solutions that increase storage while limiting pressure buildup and mechanically unfavorable conditions.
 
 {{< /paper >}}
 
@@ -675,10 +630,9 @@ Add a plain-language summary and key contribution for C23.
   journal="17th Greenhouse Gas Control Technologies Conference"
   year="2024"
   doi="http://dx.doi.org/10.2139/ssrn.5021131"
-  image="/images/publications/c22-large-scale-co2-pipeline-network-optimization-based-on-a-basin-geospatial-splitting-ap.jpg"
 >}}
 
-Add a plain-language summary and key contribution for C22.
+**Research summary:** This work introduces a basin geospatial-splitting approach for optimizing large CO₂ pipeline networks. By partitioning broad storage regions into sub-sinks before network optimization, the method reduces computational complexity and can produce shorter, lower-cost transport systems for regional and national CCS deployment.
 
 {{< /paper >}}
 
@@ -689,10 +643,9 @@ Add a plain-language summary and key contribution for C22.
   journal="17th International Conference on Greenhouse Gas Control Technologies"
   year="2024"
   doi="https://ssrn.com/abstract=5018675"
-  image="/images/publications/c21-risk-assessment-for-accidental-co2-pipeline-leakage-in-simccs.jpg"
 >}}
 
-Add a plain-language summary and key contribution for C21.
+**Research summary:** This study develops a risk-assessment capability for accidental CO₂ pipeline leakage within the SimCCS infrastructure-planning environment. The workflow connects pipeline-network design with release and consequence analysis so safety considerations can be evaluated alongside transport cost and routing decisions.
 
 {{< /paper >}}
 
@@ -703,10 +656,9 @@ Add a plain-language summary and key contribution for C21.
   journal="17th Greenhouse Gas Control Technologies Conference"
   year="2024"
   doi="http://dx.doi.org/10.2139/ssrn.5019817"
-  image="/images/publications/c20-evaluation-of-co2-storage-resources-and-costs-for-the-united-states.jpg"
 >}}
 
-Add a plain-language summary and key contribution for C20.
+**Research summary:** This study develops a rapid framework for evaluating CO₂ storage resources and associated costs across the United States. It is intended to screen large numbers of potential storage sites more efficiently than detailed numerical simulation and to support early-stage comparison of capacity and cost for CCS infrastructure planning.
 
 {{< /paper >}}
 
@@ -717,10 +669,9 @@ Add a plain-language summary and key contribution for C20.
   journal="17th Greenhouse Gas Control Technologies Conference"
   year="2024"
   doi="http://dx.doi.org/10.2139/ssrn.5019810"
-  image="/images/publications/c19-deep-learning-assisted-history-matching-and-forecasting-applied-to-the-illinois-basin-.jpg"
 >}}
 
-Add a plain-language summary and key contribution for C19.
+**Research summary:** This work replaces repeated full-physics simulations in CO₂-storage history matching with a Fourier Neural Operator surrogate. Coupled with ensemble-based data assimilation and demonstrated on the Illinois Basin–Decatur Project, the workflow accelerates calibration of uncertain geological properties while retaining reliable pressure forecasting.
 
 {{< /paper >}}
 
@@ -731,10 +682,9 @@ Add a plain-language summary and key contribution for C19.
   journal="17th Greenhouse Gas Control Technologies Conference"
   year="2024"
   doi="http://dx.doi.org/10.2139/ssrn.5030859"
-  image="/images/publications/c18-unified-simccs-3-0-platform-for-decision-making-in-carbon-capture-transport-and-storag.jpg"
 >}}
 
-Add a plain-language summary and key contribution for C18.
+**Research summary:** This paper presents the Unified SimCCS Platform for integrated CCS decision support. The platform combines modules for infrastructure optimization, storage assessment, cost-surface generation, and safety analysis, enabling regional- to national-scale evaluation of phased deployment, multiple transport modes, and onshore or offshore CCS networks.
 
 {{< /paper >}}
 
@@ -747,10 +697,9 @@ Add a plain-language summary and key contribution for C18.
   journal="SPE Annual Technical Conference and Exhibition"
   year="2023"
   doi="https://doi.org/10.2118/214984-MS"
-  image="/images/publications/c17-a-recurrent-neural-network-based-solvent-chamber-estimation-framework-during-warm-solv.jpg"
 >}}
 
-Add a plain-language summary and key contribution for C17.
+**Research summary:** This study applies recurrent neural networks to estimate time-dependent solvent-chamber evolution during warm-solvent injection in heterogeneous reservoirs. The sequence-learning framework uses operational and production information to provide rapid chamber forecasts that can support monitoring and process optimization.
 
 {{< /paper >}}
 
@@ -761,10 +710,9 @@ Add a plain-language summary and key contribution for C17.
   journal="SPE Annual Technical Conference and Exhibition"
   year="2023"
   doi="https://doi.org/10.2118/214889-MS"
-  image="/images/publications/c16-deep-learning-based-upscaling-of-geomechanical-constitutive-behavior-for-lithological-.jpg"
 >}}
 
-Add a plain-language summary and key contribution for C16.
+**Research summary:** This work develops a deep-learning-based method for upscaling geomechanical constitutive behavior in lithologically heterogeneous reservoirs. By learning fine-to-coarse relationships from numerical training data, the approach provides efficient estimates of effective mechanical response for larger-scale geomechanical simulation.
 
 {{< /paper >}}
 
@@ -774,10 +722,9 @@ Add a plain-language summary and key contribution for C16.
   authors="Heimerl, J., Ma, Z., Chen, B., Mehana, M., and van Wijk, J."
   journal="SPE Western Regional Meeting"
   year="2023"
-  image="/images/publications/c15-assessment-of-the-retrofit-potential-of-existing-wellbores-for-geologic-co2-sequestrat.jpg"
 >}}
 
-Add a plain-language summary and key contribution for C15.
+**Research summary:** This study assesses the potential to retrofit existing wellbores for geologic CO₂ sequestration. It screens legacy wells using technical, integrity, and regulatory considerations to determine which candidates may be safely converted and where reuse could reduce the cost and schedule of storage development.
 
 {{< /paper >}}
 
@@ -790,10 +737,9 @@ Add a plain-language summary and key contribution for C15.
   journal="SPE Eastern Regional Meeting"
   year="2022"
   doi="https://doi.org/10.2118/211876-MS"
-  image="/images/publications/c14-an-advanced-open-source-software-for-the-design-of-co2-capture-transport-and-storage-i.jpg"
 >}}
 
-Add a plain-language summary and key contribution for C14.
+**Research summary:** This paper describes major capabilities added to the open-source SimCCS 3.0 platform for optimizing CO₂ capture, transport, and storage infrastructure. New features include temporal deployment and representation of existing CO₂ pipelines, allowing users to evaluate how CCS networks evolve under changing facilities, incentives, and infrastructure options.
 
 {{< /paper >}}
 
@@ -804,10 +750,9 @@ Add a plain-language summary and key contribution for C14.
   journal="16th Greenhouse Gas Control Technologies Conference"
   year="2022"
   doi="http://dx.doi.org/10.2139/ssrn.4271617"
-  image="/images/publications/c13-co2-transport-infrastructure-modeling-in-the-intermountain-west-region-usa.jpg"
 >}}
 
-Add a plain-language summary and key contribution for C13.
+**Research summary:** This study applies integrated CCS infrastructure modeling to the U.S. Intermountain West. It connects CO₂ sources, potential storage resources, candidate pipeline routes, and transport costs to evaluate regional network configurations and support coordinated decarbonization planning.
 
 {{< /paper >}}
 
@@ -818,10 +763,9 @@ Add a plain-language summary and key contribution for C13.
   journal="16th Greenhouse Gas Control Technologies Conference"
   year="2022"
   doi="https://ssrn.com/abstract=4271549"
-  image="/images/publications/c12-development-and-application-of-advanced-sequestration-of-co2-tool-for-carbon-storage.jpg"
 >}}
 
-Add a plain-language summary and key contribution for C12.
+**Research summary:** This work describes the development and application of an advanced sequestration-of-CO₂ tool for screening geologic carbon-storage options. The tool is designed to estimate storage resources and costs across many candidate formations, providing rapid inputs for broader CCS infrastructure and deployment analyses.
 
 {{< /paper >}}
 
@@ -831,10 +775,9 @@ Add a plain-language summary and key contribution for C12.
   authors="Chen, F., Ma, Z., Chen, B., Mehana, M., and van Wijk, J."
   journal="3rd International Conference on Coupled Processes in Fractured Geological Media"
   year="2022"
-  image="/images/publications/c11-technical-assessment-of-hydrogen-geologic-storage-capacity-in-the-intermountain-west-r.jpg"
 >}}
 
-Add a plain-language summary and key contribution for C11.
+**Research summary:** This study assesses the technical potential for large-scale geologic hydrogen storage in the U.S. Intermountain West. It compares candidate depleted reservoirs, salt formations, and saline aquifers, estimating storage capacity and identifying promising sites for a regional hydrogen system.
 
 {{< /paper >}}
 
@@ -845,10 +788,9 @@ Add a plain-language summary and key contribution for C11.
   journal="SPE Canadian Energy Technology Conference"
   year="2022"
   doi="https://doi.org/10.2118/208885-MS"
-  image="/images/publications/c10-machine-learning-enhanced-upscaling-of-anisotropic-shear-strength-for-heterogeneous-oi.jpg"
 >}}
 
-Add a plain-language summary and key contribution for C10.
+**Research summary:** This work develops a machine-learning-enhanced method for upscaling anisotropic shear strength in heterogeneous oil sands with interbedded shale. Artificial-neural-network proxies reproduce detailed numerical-upscaling behavior much faster, supporting efficient uncertainty analysis and large-scale geomechanical modeling.
 
 {{< /paper >}}
 
@@ -861,10 +803,9 @@ Add a plain-language summary and key contribution for C10.
   journal="SPE Canada Heavy Oil Conference"
   year="2020"
   doi="https://doi.org/10.2118/199917-MS"
-  image="/images/publications/c9-efficient-tracking-of-solvent-chamber-development-during-warm-solvent-injection-in-hete.jpg"
 >}}
 
-Add a plain-language summary and key contribution for C9.
+**Research summary:** This conference study develops a machine-learning approach for tracking solvent-chamber development during warm-solvent injection in heterogeneous reservoirs. The method learns the relationship between dynamic production signals and chamber geometry to provide rapid estimates without repeated high-cost reservoir simulations.
 
 {{< /paper >}}
 
@@ -877,10 +818,9 @@ Add a plain-language summary and key contribution for C9.
   journal="SPE Reservoir Simulation Conference"
   year="2019"
   doi="https://doi.org/10.2118/193842-MS"
-  image="/images/publications/c8-design-of-warm-solvent-injection-processes-for-heterogeneous-heavy-oil-reservoirs-a-hyb.jpg"
 >}}
 
-Add a plain-language summary and key contribution for C8.
+**Research summary:** This work presents a hybrid design workflow for warm-solvent injection in heterogeneous heavy-oil reservoirs. Proxy models accelerate Pareto-based multi-objective optimization, allowing production and solvent-use objectives to be balanced across uncertain geological configurations.
 
 {{< /paper >}}
 
@@ -891,10 +831,9 @@ Add a plain-language summary and key contribution for C8.
   journal="SPE Western Regional Meeting"
   year="2019"
   doi="https://doi.org/10.2118/195247-MS"
-  image="/images/publications/c7-practical-application-of-pareto-based-multi-objective-optimization-and-proxy-modeling-f.jpg"
 >}}
 
-Add a plain-language summary and key contribution for C7.
+**Research summary:** This study applies Pareto-based multi-objective evolutionary optimization and proxy modeling to steam-alternating-solvent process design. It compares alternative evolutionary algorithms and identifies operating tradeoffs among recovery, steam demand, and solvent use while reducing the number of expensive reservoir simulations.
 
 {{< /paper >}}
 
@@ -905,10 +844,9 @@ Add a plain-language summary and key contribution for C7.
   journal="SPE Western Regional Meeting"
   year="2019"
   doi="https://doi.org/10.2118/195350-MS"
-  image="/images/publications/c6-a-novel-particle-tracking-based-proxy-for-capturing-sagd-production-features-under-rese.jpg"
 >}}
 
-Add a plain-language summary and key contribution for C6.
+**Research summary:** This work develops a particle-tracking-based proxy for capturing key SAGD production behavior under shale heterogeneity. The simplified physics-based model approximates steam movement and heating in three-dimensional reservoirs, creating informative production features at much lower computational cost than detailed compositional simulation.
 
 {{< /paper >}}
 
@@ -919,10 +857,9 @@ Add a plain-language summary and key contribution for C6.
   journal="SPE Reservoir Simulation Conference"
   year="2019"
   doi="https://doi.org/10.2118/193829-MS"
-  image="/images/publications/c5-integration-of-deep-learning-and-data-analytics-for-sagd-temperature-and-production-ana.jpg"
 >}}
 
-Add a plain-language summary and key contribution for C5.
+**Research summary:** This conference study integrates deep learning with temperature and production data to infer shale heterogeneity in SAGD reservoirs. Dynamic thermal information improves identification of shale-barrier configurations and provides a data-driven route to faster reservoir characterization.
 
 {{< /paper >}}
 
@@ -935,10 +872,9 @@ Add a plain-language summary and key contribution for C5.
   journal="SPE Canada Heavy Oil Technical Conference"
   year="2018"
   doi="https://doi.org/10.2118/189735-MS"
-  image="/images/publications/c4-integration-of-data-driven-models-for-characterizing-shale-barrier-configuration-in-3d-.jpg"
 >}}
 
-Add a plain-language summary and key contribution for C4.
+**Research summary:** This work develops data-driven models for characterizing shale-barrier configurations in three-dimensional heterogeneous SAGD reservoirs. Production-response features are linked to geological patterns to provide faster estimates of heterogeneity than conventional simulation-based inverse modeling alone.
 
 {{< /paper >}}
 
@@ -951,10 +887,9 @@ Add a plain-language summary and key contribution for C4.
   journal="SPE Canada Heavy Oil Technical Conference"
   year="2016"
   doi="https://doi.org/10.2118/180716-MS"
-  image="/images/publications/c3-integration-of-artificial-intelligence-and-production-data-analysis-for-shale-heterogen.jpg"
 >}}
 
-Add a plain-language summary and key contribution for C3.
+**Research summary:** This study combines artificial intelligence and production-data analysis to infer shale heterogeneity in SAGD reservoirs. Predictive models map production signatures to shale-barrier characteristics, supporting rapid reservoir characterization and improved interpretation of thermal-recovery performance.
 
 {{< /paper >}}
 
@@ -967,10 +902,9 @@ Add a plain-language summary and key contribution for C3.
   journal="SPE Canada Heavy Oil Technical Conference"
   year="2015"
   doi="https://doi.org/10.2118/174460-MS"
-  image="/images/publications/c2-practical-data-mining-and-artificial-neural-network-modeling-for-sagd-production-analys.jpg"
 >}}
 
-Add a plain-language summary and key contribution for C2.
+**Research summary:** This work demonstrates practical use of data mining and artificial neural networks for SAGD production analysis. Large production datasets are used to identify patterns and build fast predictive relationships that can support forecasting and operational screening.
 
 {{< /paper >}}
 
@@ -983,9 +917,8 @@ Add a plain-language summary and key contribution for C2.
   journal="SPE Heavy Oil Conference–Canada"
   year="2014"
   doi="https://doi.org/10.2118/170144-MS"
-  image="/images/publications/c1-practical-implementation-of-knowledge-based-approaches-for-sagd-production-analysis.jpg"
 >}}
 
-Add a plain-language summary and key contribution for C1.
+**Research summary:** This study presents knowledge-based approaches for practical SAGD production analysis. Engineering knowledge, field data, and data-driven modeling are combined to identify important performance relationships and support faster production assessment under uncertainty.
 
 {{< /paper >}}
