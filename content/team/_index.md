@@ -43,6 +43,7 @@ Singapore Institute of Technology\
 M.S. Student\
 New Mexico Institute of Mining and Technology\
 *CO₂ transportation and infrastructure design*\
+**Co-supervised with**: Prof. Hamid Rahnema\
 **Period:** 2026–Present\
 **Mentoring location:** New Mexico Institute of Mining and Technology, USA
 
@@ -50,12 +51,13 @@ New Mexico Institute of Mining and Technology\
 
 ## Undergraduate Researchers
 
-### Final Year Project Students
+### Final Year Project Students — Food Technology
 
 **Ng Axel**\
 Final Year Project Student\
 Singapore Institute of Technology\
 *Effects of Complementary Plant Proteins to Enhance the Nutritional and Techno-Functional Properties of Mushroom-Based Foods: A Systematic Literature Review*\
+**Co-supervised with**: Prof. Nenad Naumovski and Prof. Du Juan\
 **Period:** 2026
 
 <br>
@@ -64,6 +66,7 @@ Singapore Institute of Technology\
 Final Year Project Student\
 Singapore Institute of Technology\
 *Enhancing Functional Properties of Mushroom Proteins through Water Extraction and Heating-Based Methods*\
+**Co-supervised with**: Prof. Du Juan\
 **Period:** 2026
 
 <br>
@@ -116,6 +119,7 @@ The following researchers and students were supervised or mentored by Dr. Ma at 
 Postdoctoral Research Associate\
 *Machine-learning-based CO₂ storage and transport design and modeling*\
 **Role:** Primary Mentor\
+**Co-supervised with**: Dr. Bailian Chen\
 **Period:** 2024–2025\
 **Mentoring location:** Los Alamos National Laboratory, New Mexico, USA
 
@@ -125,6 +129,7 @@ Postdoctoral Research Associate\
 Postdoctoral Research Associate\
 *Machine-learning-based multi-objective optimization for geological CO₂ storage*\
 **Role:** Co-Mentor\
+**Co-supervised with**: Dr. Bailian Chen\
 **Period:** 2024–2025\
 **Mentoring location:** Los Alamos National Laboratory, New Mexico, USA
 
@@ -134,6 +139,7 @@ Postdoctoral Research Associate\
 Postdoctoral Research Associate\
 *Large-scale CO₂ transportation network design and modeling*\
 **Role:** Co-Mentor\
+**Co-supervised with**: Dr. Bailian Chen\
 **Period:** 2023–2025\
 **Mentoring location:** Los Alamos National Laboratory, New Mexico, USA
 
