@@ -349,3 +349,18 @@ footer {
   font-size: 18px;
   font-weight: 700;
 }
+
+/* Homepage research section heading */
+.section-title {
+  max-width: 1100px;
+}
+
+.section-title h2 {
+  white-space: nowrap;
+}
+
+@media (max-width: 900px) {
+  .section-title h2 {
+    white-space: normal;
+  }
+}
