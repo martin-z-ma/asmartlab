@@ -229,4 +229,44 @@ footer {
   border-radius: 8px;
 }
 
+/* =================================
+   Work with A-SMART Lab section
+   ================================= */
+
+.dark {
+  background: #eef8f7;
+  color: var(--ink);
+}
+
+.dark h2 {
+  color: var(--navy);
+}
+
+.dark .kicker {
+  color: var(--teal);
+}
+
+.dark p {
+  color: var(--muted);
+}
+
+/* Service boxes */
+.dark .service-list span {
+  background: #ffffff;
+  border: 1px solid #d8e7e7;
+  color: var(--navy);
+  box-shadow: 0 4px 14px rgba(11, 35, 57, 0.05);
+}
+
+/* Explore Services button */
+.dark .btn.light {
+  background: var(--teal);
+  color: #ffffff;
+  border-color: var(--teal);
+}
+
+.dark .btn.light:hover {
+  background: #0c7476;
+  border-color: #0c7476;
+}
 
