@@ -2,49 +2,149 @@
 title: "Teaching"
 ---
 
-Our teaching connects **engineering fundamentals, data analytics, artificial intelligence, and applied problem-solving**. Courses and student projects emphasize practical analysis, responsible use of computational tools, and clear communication of evidence-based engineering decisions.
+<div class="research-intro">
+<strong>Teaching data analytics, AI-enabled engineering, process safety, and project-based learning through applied, industry-relevant problems.</strong>
+</div>
+
+<br>
 
 ## Current Teaching
 
-### Data Analytics
+### Data Analytics (FDT1032)
 
-An applied course introducing **data preparation, descriptive and comparative analysis, visualization, Excel, Python, and responsible AI use** through food-technology and engineering examples. Students work with real and simulated datasets to develop practical data-analysis and decision-making skills.
+<div style="margin-left: 24px;">
 
-### Process Safety
+<p>
+<strong>Program:</strong> Food Technology<br>
+<strong>Institution:</strong> Singapore Institute of Technology<br>
+<strong>Role:</strong> Course Developer and Sole Instructor<br>
+<strong>Period:</strong> 2026
+</p>
 
-Teaching contributions cover **process hazards, release modeling, risk assessment, and safety management systems** for chemical and pharmaceutical engineering students, with emphasis on applying quantitative methods to real process-safety scenarios.
+<p>
+This course introduces students to the complete data analytics workflow, from problem formulation and data preparation to analysis, visualization, interpretation, and communication of insights.
+</p>
 
-### AI Industry Team Project
+<p>
+Topics include <strong>data quality, descriptive and comparative analysis, data visualization, relationships and patterns, Python fundamentals, and responsible use of AI</strong>. Students work with Excel and Jupyter/Python and apply analytics to food-technology datasets and real-world problems.
+</p>
 
-Interdisciplinary student teams work on **industry-defined AI challenges** involving machine learning, natural language processing, and generative AI. The learning experience includes problem framing, feasibility assessment, responsible AI use, technical development, reporting, and industry presentation.
+<p><strong>Teaching approach:</strong> Applied data analysis · Project-based learning · Excel · Python · Responsible AI</p>
+
+</div>
+
+<br>
+
+### Process Safety (PHE3019 / TCE3040)
+
+<div style="margin-left: 24px;">
+
+<p>
+<strong>Programs:</strong> Pharmaceutical Engineering and Chemical Engineering<br>
+<strong>Institution:</strong> Singapore Institute of Technology<br>
+<strong>Role:</strong> Co-Instructor<br>
+<strong>Period:</strong> 2026
+</p>
+
+<p>
+Contributes to undergraduate teaching in process safety, including lectures and assessments on <strong>process hazards, toxic release modeling, risk assessment, and safety management systems</strong>.
+</p>
+
+<p>The course emphasizes quantitative analysis and engineering judgment for identifying, evaluating, and managing risks in chemical and process industries.</p>
+
+<p><strong>Teaching areas:</strong> Process Hazards · Risk Assessment · Consequence Analysis · Safety Management</p>
+
+</div>
+
+<br>
+
+### AI Industry Team Project (UEM2001)
+
+<div style="margin-left: 24px;">
+
+<p>
+<strong>Type:</strong> Interdisciplinary industry-based AI project course<br>
+<strong>Institution:</strong> Singapore Institute of Technology<br>
+<strong>Role:</strong> Co-Instructor<br>
+<strong>Period:</strong> 2026–Present
+</p>
+
+<p>
+Students work in interdisciplinary teams with industry partners to develop practical AI-enabled solutions to real-world problems.
+</p>
+
+<p>
+Teaching and supervision cover <strong>problem definition, data analytics, machine learning, natural language processing, Generative AI, feasibility assessment, responsible AI, technical reporting, and industry presentation</strong>.
+</p>
+
+<p><strong>Teaching approach:</strong> Industry-Based Learning · Machine Learning · NLP · Generative AI · Responsible AI · Team Projects</p>
+
+</div>
+
+<br>
 
 ## Project-Based Learning
 
-Student learning is supported through:
+<div style="margin-left: 24px;">
 
-- Final-year projects
-- Bachelor’s thesis projects
-- Industry work-study projects
-- Interdisciplinary AI team projects
-- Applied data analytics assignments
-- Research-led student supervision
+<p>
+Project-based learning is an important part of teaching and student development in A-SMART Lab. Students apply analytical and computational methods to authentic engineering, food-technology, sustainability, and industry problems.
+</p>
 
-Projects are designed to help students connect **data, computation, engineering knowledge, and real-world decision-making**.
+<p>Student projects include:</p>
 
-## Teaching Approach
+<ul>
+  <li>Final Year Projects</li>
+  <li>Bachelor Thesis projects</li>
+  <li>Industry Team Projects</li>
+  <li>Independent research projects</li>
+  <li>Interdisciplinary AI and data analytics projects</li>
+</ul>
 
-Dr. Ma's teaching emphasizes:
+<p>
+Projects emphasize <strong>problem formulation, data analysis, computational modeling, critical interpretation, responsible use of AI, and communication of actionable insights</strong>.
+</p>
 
-- Connecting theory with real engineering and industry problems
-- Learning through data, computation, and hands-on analysis
-- Clear visualization and communication of technical results
-- Responsible and effective use of artificial intelligence
-- Developing independent problem-solving and decision-making skills
+</div>
 
-## Teaching Resources
+<br>
 
-Selected teaching materials, workshop resources, datasets, and student guidance may be added here when suitable for public sharing.
+## Previous Teaching Experience
 
-## Student Project Enquiries
+### Applied Reservoir Engineering (PET E 475)
 
-Students interested in projects related to **AI-enabled engineering, optimization, CCUS, geoenergy, food systems, or applied analytics** may review the [Join Us](/join/) page or [contact A-SMART Lab](mailto:martin.ma@singaporetech.edu.sg).
+<div style="margin-left: 24px;">
+
+<p>
+<strong>Program:</strong> Petroleum Engineering<br>
+<strong>Institution:</strong> University of Alberta, Canada<br>
+<strong>Role:</strong> Teaching Assistant<br>
+<strong>Years:</strong> 2014, 2015, and 2017<br>
+<strong>Enrollment:</strong> Approximately 70 students per year
+</p>
+
+<p>
+Supported undergraduate teaching in applied reservoir engineering, including course instruction, student learning activities, and technical problem solving in petroleum reservoir engineering.
+</p>
+
+</div>
+
+<br>
+
+### Petroleum Reservoir Fluids (PET E 275)
+
+<div style="margin-left: 24px;">
+
+<p>
+<strong>Program:</strong> Petroleum Engineering<br>
+<strong>Institution:</strong> University of Alberta, Canada<br>
+<strong>Role:</strong> Teaching Assistant<br>
+<strong>Year:</strong> 2014<br>
+<strong>Enrollment:</strong> Approximately 60 students
+</p>
+
+<p>
+Supported undergraduate instruction in petroleum reservoir fluids and the application of fluid-property concepts to reservoir engineering problems.
+</p>
+
+</div>
