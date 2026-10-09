@@ -1,4 +1,7 @@
-baseURL = "https://martin-z-ma.github.io/asmartlab/"
+# Old GitHub Pages URL
+# baseURL = "https://martin-z-ma.github.io/asmartlab/"
+
+baseURL = "https://asmartlab.pages.dev/"
 languageCode = "en-us"
 title = "A-SMART Lab"
 disableKinds = ["taxonomy", "term"]
