@@ -2,10 +2,6 @@
 title: "Research"
 ---
 
-<div class="research-intro">
-<strong>AI-enabled modeling and optimization for secure, resilient, and economically sustainable infrastructure under uncertainty.</strong>
-</div>
-
 
 <div class="research-theme">
 
