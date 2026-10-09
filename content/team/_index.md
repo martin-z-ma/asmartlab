@@ -28,7 +28,7 @@ Principal Investigator, A-SMART Lab
 
 ## Research Staff
 
-**Alqawzai Shagea**
+**Dr. Alqawzai Shagea**
 
 <div style="margin-left: 24px;">
 
@@ -43,7 +43,7 @@ Singapore Institute of Technology<br>
 
 <br>
 
-**David Ho Ze Ern**
+**Mr. David Ho Ze Ern**
 
 <div style="margin-left: 24px;">
 
@@ -60,7 +60,7 @@ Singapore Institute of Technology<br>
 
 ## Graduate Researchers
 
-**Evans Owusu**
+**Mr. Evans Owusu**
 
 <div style="margin-left: 24px;">
 
