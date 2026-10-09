@@ -105,4 +105,6 @@ We aim to bridge **academic research and practical deployment**, helping partner
 
 If your organization is exploring a challenge involving **AI-enabled engineering, optimization, CCUS, energy infrastructure, geoenergy, techno-economic analysis, or decision support**, we welcome discussions on potential collaboration.
 
+> **Note:** Collaborative research, sponsored projects, professional training, and other external engagements are subject to applicable Singapore Institute of Technology policies, approvals, and contracting procedures.
+
 [Email the Lab](mailto:martin.ma@singaporetech.edu.sg)
