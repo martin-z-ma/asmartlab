@@ -2,8 +2,6 @@
 title: "News"
 ---
 
-<div class="notice">Verified, publicly shareable updates from the A-SMART Lab and Dr. Martin Ma.</div>
-
 ## Latest Updates
 
 ### Dr. Martin Ma invited to join APAC CCUS 2027 Conference Organizing Committee
