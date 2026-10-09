@@ -2,11 +2,6 @@
 title: "Team"
 ---
 
-<div class="research-intro">
-<strong>Meet the researchers and students working with A-SMART Lab.</strong>
-</div>
-
-<br>
 
 ## Principal Investigator
 
