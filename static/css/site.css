@@ -365,10 +365,15 @@ footer {
   }
 }
 
-.footer-disclaimer {
+.footer-container {
   max-width: 1100px;
-  margin: 24px auto 0;
-  padding-top: 16px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.footer-disclaimer {
+  margin-top: 22px;
+  padding-top: 15px;
   border-top: 1px solid rgba(255, 255, 255, 0.15);
   font-size: 0.78rem;
   line-height: 1.5;
