@@ -310,3 +310,27 @@ footer {
   color: #111111;
   font-weight: 700;
 }
+
+.hero .lede {
+  color: #222222;
+  font-size: 17px;
+  line-height: 1.7;
+  font-weight: 400;
+}
+
+.hero .lede strong {
+  color: #111111;
+  font-weight: 700;
+}
+
+.hero .actions {
+  display: flex;
+  align-items: center;
+  gap: 22px;
+  margin-top: 30px;
+}
+
+.hero-secondary {
+  font-size: 18px;
+  font-weight: 700;
+}
