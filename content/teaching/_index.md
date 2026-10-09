@@ -2,11 +2,6 @@
 title: "Teaching"
 ---
 
-<div class="research-intro">
-<strong>Teaching data analytics, AI-enabled engineering, process safety, and project-based learning through applied, industry-relevant problems.</strong>
-</div>
-
-<br>
 
 ## Current Teaching
 
