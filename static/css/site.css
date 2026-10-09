@@ -270,3 +270,31 @@ footer {
   border-color: #0c7476;
 }
 
+
+/* =================================
+   Homepage hero refinements
+   ================================= */
+
+.hero .lab-title {
+  font-size: clamp(48px, 5.4vw, 78px);
+  line-height: 1;
+  white-space: nowrap;
+  color: var(--navy);
+}
+
+.hero .lede {
+  color: #111111;
+}
+
+.hero .lede strong {
+  color: #111111;
+  font-weight: 700;
+}
+
+@media (max-width: 650px) {
+  .hero .lab-title {
+    font-size: 48px;
+    white-space: normal;
+  }
+}
+
