@@ -251,7 +251,7 @@ Postdoctoral Research Associate<br>
 <p>
 M.Sc. Student in Petroleum Engineering<br>
 <em>Application of data-driven techniques to SAGD and solvent-aided recovery processes</em><br>
-<strong>Role:</strong> Co-Mentor<br>
+<strong>Role:</strong> Research Mentor<br>
 <strong>Period:</strong> 2018–2019<br>
 <strong>Mentoring location:</strong> University of Alberta, Edmonton, Canada
 </p>
@@ -267,7 +267,7 @@ M.Sc. Student in Petroleum Engineering<br>
 <p>
 M.Sc. Student in Petroleum Engineering<br>
 <em>Multi-objective optimization workflow for steam-alternating-solvent heavy-oil recovery process design</em><br>
-<strong>Role:</strong> Co-Mentor<br>
+<strong>Role:</strong> Research Mentor<br>
 <strong>Period:</strong> 2018–2019<br>
 <strong>Mentoring location:</strong> University of Alberta, Edmonton, Canada
 </p>
@@ -283,7 +283,7 @@ M.Sc. Student in Petroleum Engineering<br>
 <p>
 M.Sc. Student in Petroleum Engineering<br>
 <em>Fast screening of heterogeneous shale-barrier configurations and their impacts on SAGD production behavior</em><br>
-<strong>Role:</strong> Co-Mentor<br>
+<strong>Role:</strong> Research Mentor<br>
 <strong>Period:</strong> 2018–2019<br>
 <strong>Mentoring location:</strong> University of Alberta, Edmonton, Canada
 </p>
@@ -299,7 +299,7 @@ M.Sc. Student in Petroleum Engineering<br>
 <p>
 M.Eng. Student in Petroleum Engineering<br>
 <em>Data-driven modeling for SAGD production analysis</em><br>
-<strong>Role:</strong> Co-Mentor<br>
+<strong>Role:</strong> Research Mentor<br>
 <strong>Period:</strong> 2013–2015<br>
 <strong>Mentoring location:</strong> University of Alberta, Edmonton, Canada
 </p>
