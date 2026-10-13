@@ -33,26 +33,40 @@ Principal Investigator, A-SMART Lab</p>
 
 <h2>Research</h2>
 
+<div style="margin-left: 24px;">
+
 <p><strong>AI & Scientific Machine Learning · Optimization & Decision Intelligence · CCUS & Low-Carbon Infrastructure · Subsurface & Geoenergy Systems</strong></p>
 
 <p>Our research integrates data, physics, artificial intelligence, optimization, and uncertainty analysis to understand complex engineering systems and support better decisions. The work spans methodological development and real-world applications in energy, infrastructure, geoenergy, carbon management, and AI-enabled engineering.</p>
 
+</div>
+
 
 <h2>Research impact</h2>
+
+<div style="margin-left: 24px;">
 
 <p>Dr. Ma has led and contributed to the development of computational tools and decision-support frameworks for carbon management, subsurface systems, and energy infrastructure, including <strong>SimCCS 3.0</strong>. His work integrates engineering models with optimization, techno-economic analysis, and uncertainty quantification to support infrastructure planning and risk-informed decision-making.</p>
 
 <p>His research and software have been used in studies supporting <strong>U.S. federal agencies and national laboratories</strong>, helping inform policy analysis and strategic decision-making related to CCUS deployment, CO₂ transport and storage, and low-carbon infrastructure. His research has also contributed to major collaborative programs supported by the <strong>U.S. Department of Energy, A*STAR, NSERC</strong>, and international CCUS partnerships. He has authored and co-authored more than <strong>60 journal and conference publications</strong> spanning AI, optimization, CCUS, subsurface systems, and energy infrastructure.</p>
 
+</div>
+
 
 <h2>Professional leadership</h2>
+
+<div style="margin-left: 24px;">
 
 <p>Dr. Ma serves as an <strong>Associate Editor of <em>Geoenergy Science and Engineering</em></strong> and contributes actively to international activities in CCUS, energy systems, artificial intelligence, and computational engineering. He has served on <strong>conference technical and program committees</strong>, including major CCUS events across the SPE, SEG, and AAPG communities, and has contributed as a session chair, moderator, abstract reviewer, and technical reviewer.</p>
 
 <p>His professional activities also include guest editing, peer review, conference organization, invited presentations, and interdisciplinary initiatives supporting the development and application of emerging technologies and AI.</p>
 
+</div>
+
 
 <h2>Academic & research appointments</h2>
+
+<div style="margin-left: 24px;">
 
 <p>
 <strong>Assistant Professor</strong><br>
@@ -78,10 +92,14 @@ Los Alamos National Laboratory, USA<br>
 2023–2025
 </p>
 
+</div>
+
 
 <h2>Academic background</h2>
 
 <h3>Education</h3>
+
+<div style="margin-left: 24px;">
 
 <p>
 <strong>Ph.D. in Petroleum Engineering</strong><br>
@@ -99,8 +117,12 @@ King Abdullah University of Science and Technology, Saudi Arabia
 China University of Petroleum (East China), China
 </p>
 
+</div>
+
 
 <h3>Postdoctoral training</h3>
+
+<div style="margin-left: 24px;">
 
 <p>
 <strong>Postdoctoral Research Associate</strong><br>
@@ -120,11 +142,17 @@ University of Alberta, Canada<br>
 2018–2019
 </p>
 
+</div>
+
 
 <h2>Research philosophy</h2>
+
+<div style="margin-left: 24px;">
 
 <p><strong>Better models should lead to better decisions.</strong></p>
 
 <p><strong>Data + Physics → AI & Modeling → Optimization & Uncertainty → Decision Intelligence</strong></p>
 
 <p>The A-SMART Lab develops computational methods that are scientifically rigorous, practically useful, and capable of supporting real-world engineering and infrastructure decisions.</p>
+
+</div>
