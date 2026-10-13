@@ -117,24 +117,24 @@ The workshop combines foundational concepts with practical applications, enablin
 <p>
 <strong>Audience:</strong> University Students<br>
 <strong>Institution:</strong> New Mexico Institute of Mining and Technology<br>
-<strong>Format:</strong> Technical Workshop<br>
+<strong>Format:</strong> Hands-On Technical Workshop<br>
 <strong>Role:</strong> Workshop Developer and Instructor<br>
-<strong>Period:</strong> 06/2025;06/2026
+<strong>Period:</strong> 2026
 </p>
 
 <p>
-Designed and delivered a technical workshop introducing students to the fundamentals and practical considerations of <strong>CO₂ transportation within carbon capture, utilization, and storage (CCUS) systems</strong>.
+Designed and delivered a hands-on technical workshop on <strong>CO₂ transportation and infrastructure modeling using SimCCS</strong>, introducing students to computational approaches for planning and evaluating carbon capture, transport, and storage systems.
 </p>
 
 <p>
-The workshop covered key aspects of CO₂ transportation, including <strong>transport modes, CO₂ properties and phase behavior, infrastructure design, pipeline and maritime transportation, cost considerations, safety, and system-level decision-making</strong>.
+Students used SimCCS to explore <strong>CO₂ source–sink networks, transportation infrastructure design, pipeline routing, network optimization, transport capacity, and system-level cost analysis</strong>. The workshop connected fundamental CO₂ transportation concepts with practical modeling and infrastructure planning.
 </p>
 
 <p>
-Through engineering examples and applied discussions, students developed an understanding of how technical, economic, operational, and safety considerations influence the design and evaluation of CO₂ transportation systems.
+Through guided modeling exercises and applied case studies, participants gained experience in translating engineering assumptions and spatial data into CO₂ transport-network models and interpreting optimization results for CCUS infrastructure decision-making.
 </p>
 
-<p><strong>Teaching approach:</strong> CCUS · CO₂ Transportation · Applied Engineering · Techno-Economic Analysis · Infrastructure Systems · Real-World Applications</p>
+<p><strong>Teaching approach:</strong> Hands-On Modeling · SimCCS · CO₂ Transportation · CCUS Infrastructure · Network Optimization · Techno-Economic Analysis · Decision Support</p>
 
 </div>
 
