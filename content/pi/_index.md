@@ -40,7 +40,7 @@ Principal Investigator, A-SMART Lab</p>
 
 <h2>Research impact</h2>
 
-<p>Dr. Ma has led and contributed to the development of computational tools and decision-support frameworks for carbon management, subsurface systems, and energy infrastructure, including <strong>SimCCS 3.0, SCO₂T, and CostMAP</strong>. His work integrates engineering models with optimization, techno-economic analysis, and uncertainty quantification to support infrastructure planning and risk-informed decision-making.</p>
+<p>Dr. Ma has led and contributed to the development of computational tools and decision-support frameworks for carbon management, subsurface systems, and energy infrastructure, including <strong>SimCCS 3.0</strong>. His work integrates engineering models with optimization, techno-economic analysis, and uncertainty quantification to support infrastructure planning and risk-informed decision-making.</p>
 
 <p>His research and software have been used in studies supporting <strong>U.S. federal agencies and national laboratories</strong>, helping inform policy analysis and strategic decision-making related to CCUS deployment, CO₂ transport and storage, and low-carbon infrastructure. His research has also contributed to major collaborative programs supported by the <strong>U.S. Department of Energy, A*STAR, NSERC</strong>, and international CCUS partnerships. He has authored and co-authored more than <strong>60 journal and conference publications</strong> spanning AI, optimization, CCUS, subsurface systems, and energy infrastructure.</p>
 
