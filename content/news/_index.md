@@ -4,6 +4,16 @@ title: "News"
 
 ## Latest Updates
 
+### AI in Food Science and Nutrition Article Published in Food Australia
+<div style="margin-left: 24px;">
+
+<p><strong>Date:</strong> October 2026</p>
+
+<p>Dr. Martin Ma, together with Dr. Hua Ling and Prof. Nenad Naumovski, published an article in <strong>Food Australia</strong> titled <em>"Use of Artificial Intelligence in Biotechnology and Food Science: Potential Implications for Human Nutrition."</em> The article explores the growing role of artificial intelligence in bioactive discovery, biocatalyst design, precision fermentation, food manufacturing, personalized nutrition, and healthy ageing, while highlighting opportunities and challenges for responsible AI adoption across the food and nutrition sectors.</p>
+<br>
+</div>
+
+
 ### Dr. Martin Ma invited to join APAC CCUS 2027 Conference Organizing Committee
 
 <div style="margin-left: 24px;">
